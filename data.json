@@ -1,0 +1,2259 @@
+{
+    "languages": ["en", "nl"],
+    "all_questions": {
+        "en": [
+            {
+                "all_answers": ["Greece", "Italy", "Spain"],
+                "correct_answer": "Italy",
+                "question": "What country did the Etruscans live in?"
+            },
+            {
+                "all_answers": ["Amazon", "Facebook", "Google"],
+                "correct_answer": "Amazon",
+                "question": "Which American e-commerce company was founded by Jeff Bezos in 1994?"
+            },
+            {
+                "all_answers": ["Kidneys", "Bone marrow", "Liver"],
+                "correct_answer": "Bone marrow",
+                "question": "Where in your body are red blood cells produced?"
+            },
+            {
+                "all_answers": ["Maizena", "Self-rising baking flour", "Yeast"],
+                "correct_answer": "Self-rising baking flour",
+                "question": "What do you get when you add baking powder to flour?"
+            },
+            {
+                "all_answers": ["Serena", "Venus", "They're equal"],
+                "correct_answer": "Serena",
+                "question": "Which Williams sister has won more Grand Slam titles?"
+            },
+            {
+                "all_answers": [
+                    "Oil on the track",
+                    "Vehicle crashed",
+                    "Last round"
+                ],
+                "correct_answer": "Oil on the track",
+                "question": "What does a yellow flag with red stripes mean in motorsport?"
+            },
+            {
+                "all_answers": ["Amen", "Ave", "Soit"],
+                "correct_answer": "Amen",
+                "question": "How do you say 'So be it' in Hebrew?"
+            },
+            {
+                "all_answers": ["Dung beetle", "Cockroach", "Cat"],
+                "correct_answer": "Dung beetle",
+                "question": "Which animal is the scarab, the Egyptian symbol of renewal?"
+            },
+            {
+                "all_answers": ["Car accidents", "Seconds", "Minutes"],
+                "correct_answer": "Seconds",
+                "question": "What are 31.557.600 of them in a year?"
+            },
+            {
+                "all_answers": ["28", "30", "32"],
+                "correct_answer": "32",
+                "question": "How many teeth does a grown man normally have?"
+            },
+            {
+                "all_answers": ["Interpol", "NATO", "The United Nations"],
+                "correct_answer": "The United Nations",
+                "question": "Which international organization sends the blue helmets?"
+            },
+            {
+                "all_answers": ["Mark", "Frank", "Crown"],
+                "correct_answer": "Mark",
+                "question": "Before the euro, people in Finland paid with the"
+            },
+            {
+                "all_answers": [
+                    "Hommes et Mesdames",
+                    "Hennes and Mauritz",
+                    "Hennes and Moritz"
+                ],
+                "correct_answer": "Hennes and Mauritz",
+                "question": "What's H&M the abbreviation for?"
+            },
+            {
+                "all_answers": ["Chaudfontaine", "Vital", "Spa"],
+                "correct_answer": "Chaudfontaine",
+                "question": "What Belgian spring water has hot springs on its domain?"
+            },
+            {
+                "all_answers": ["Peseta", "Lire", "Drachme"],
+                "correct_answer": "Peseta",
+                "question": "What was before the introduction of the euro, the Spanish currency?"
+            },
+            {
+                "all_answers": [
+                    "Labour Day",
+                    "The foundation of Europe",
+                    "Armistice"
+                ],
+                "correct_answer": "Labour Day",
+                "question": "What is celebrated in all European countries on 1 May?"
+            },
+            {
+                "all_answers": ["Spain", "Ecuador,", "Austria"],
+                "correct_answer": "Spain",
+                "question": "For which country does the car sticker with the letter E stand?"
+            },
+            {
+                "all_answers": ["Sweden", "Norway", "Germany"],
+                "correct_answer": "Sweden",
+                "question": "What country is the Volvo brand from?"
+            },
+            {
+                "all_answers": ["100", "81", "121"],
+                "correct_answer": "100",
+                "question": "How many fields does a checkerboard have?"
+            },
+            {
+                "all_answers": ["Algeria", "Congo", "South Africa"],
+                "correct_answer": "Algeria",
+                "question": "What is the largest country in Africa in terms of surface area?"
+            },
+            {
+                "all_answers": ["5", "7", "3"],
+                "correct_answer": "5",
+                "question": "How many times did Eddy Merckx win the Tour de France?"
+            },
+            {
+                "all_answers": [
+                    "UNESCO",
+                    "UNICEF",
+                    "World Heritage Protection"
+                ],
+                "correct_answer": "UNESCO",
+                "question": "What's the organization that protects monuments called?"
+            },
+            {
+                "all_answers": ["Ghosts", "Pigs", "Rain"],
+                "correct_answer": "Ghosts",
+                "question": "For what is Phasmaphobia the fear?"
+            },
+            {
+                "all_answers": ["Venus", "Mercury", "Pluto"],
+                "correct_answer": "Venus",
+                "question": "Which planet is the hottest in our solar system?"
+            },
+            {
+                "all_answers": ["Sweden", "Holland,", "France"],
+                "correct_answer": "Sweden",
+                "question": "What was the first European country to use banknotes?"
+            },
+            {
+                "all_answers": ["Green", "Brown", "Transparent"],
+                "correct_answer": "Green",
+                "question": "What color was Coca-Cola originally?"
+            },
+            {
+                "all_answers": ["Germany", "Belgium", "Spain"],
+                "correct_answer": "Germany",
+                "question": "Which European country is the biggest consumer of beer?"
+            },
+            {
+                "all_answers": ["28", "30", "26"],
+                "correct_answer": "28",
+                "question": "How many pieces are in a standard series of dominoes?"
+            },
+            {
+                "all_answers": [
+                    "George Washington",
+                    "George Walker Bush",
+                    "John F Kennedy"
+                ],
+                "correct_answer": "George Washington",
+                "question": "Which American president appears on a 1 dollar bill?"
+            },
+            {
+                "all_answers": ["500", "200", "10"],
+                "correct_answer": "500",
+                "question": "What number is 'D' in Roman numerals?"
+            },
+            {
+                "all_answers": ["Seat", "Fiat", "Audi"],
+                "correct_answer": "Audi",
+                "question": "What car brand is named after the Latin word that means 'I hear'?"
+            },
+            {
+                "all_answers": ["12 zeros", "18 zeros", "15 zeros"],
+                "correct_answer": "12 zeros",
+                "question": "How many zeros does a trillion contain?"
+            },
+            {
+                "all_answers": [
+                    "Red and white",
+                    "Blue and white",
+                    "Red and black"
+                ],
+                "correct_answer": "Red and white",
+                "question": "What two colors are on the Polish flag?"
+            },
+            {
+                "all_answers": ["Zloty", "Blotz", "Euro"],
+                "correct_answer": "Zloty",
+                "question": "What is the name of the coin used in Poland?"
+            },
+            {
+                "all_answers": ["America", "Italy", "Israel"],
+                "correct_answer": "America",
+                "question": "Which country has the largest Christian population?"
+            },
+            {
+                "all_answers": ["Red", "Blue", "Green"],
+                "correct_answer": "Red",
+                "question": "What color is at the top of the rainbow?"
+            },
+            {
+                "all_answers": ["Canada", "Russia", "United Kingdom"],
+                "correct_answer": "Canada",
+                "question": "In which country was the organization Greenpeace founded?"
+            },
+            {
+                "all_answers": ["Japan", "Canada", "Germany"],
+                "correct_answer": "Japan",
+                "question": "In which one of these countries is there a Disneyland?"
+            },
+            {
+                "all_answers": ["2,54 cm", "2,56 cm", "2,73 cm"],
+                "correct_answer": "2,54 cm",
+                "question": "How many centimeters is one inch?"
+            },
+            {
+                "all_answers": ["4", "1", "As much as he wants"],
+                "correct_answer": "4",
+                "question": "How many wives can a man have under Islamic law?"
+            },
+            {
+                "all_answers": ["Samba", "Salsa", "Balboa"],
+                "correct_answer": "Samba",
+                "question": "What is the national dance of Brazil?"
+            },
+            {
+                "all_answers": ["Walker", "Washington", "Wiliam"],
+                "correct_answer": "Walker",
+                "question": "What does the 'W' stand for in George W Bush?"
+            },
+            {
+                "all_answers": ["Zeus", "Hades", "Cronos"],
+                "correct_answer": "Zeus",
+                "question": "Who was the supreme god in Greek mythology?"
+            },
+            {
+                "all_answers": ["Mexico", "Brazil", "Chile"],
+                "correct_answer": "Mexico",
+                "question": "What country is Tequila from?"
+            },
+            {
+                "all_answers": ["6", "3", "None"],
+                "correct_answer": "6",
+                "question": "How many stars are there on the flag of Australia?"
+            },
+            {
+                "all_answers": ["13 stripes", "14 stripes", "12 stripes"],
+                "correct_answer": "13 stripes",
+                "question": "How many stripes are on the American flag?"
+            },
+            {
+                "all_answers": [
+                    "Teacher",
+                    "Garbage collector",
+                    "Chimney sweeper"
+                ],
+                "correct_answer": "Teacher",
+                "question": "If you were a 'chalkie' in Australia, what would your profession be?"
+            },
+            {
+                "all_answers": ["Alpha", "Delta", "Beta"],
+                "correct_answer": "Alpha",
+                "question": "What is the first letter of the Greek alphabet?"
+            },
+            {
+                "all_answers": ["The ear", "The pulse", "The ankle"],
+                "correct_answer": "The ear",
+                "question": "In which part of the body do you find the anvil?"
+            },
+            {
+                "all_answers": ["Basil", "Pesto", "Cucumber"],
+                "correct_answer": "Basil",
+                "question": "What makes pesto sauce green?"
+            },
+            {
+                "all_answers": ["O", "A", "B"],
+                "correct_answer": "O",
+                "question": "What is the most common blood type?"
+            },
+            {
+                "all_answers": ["3", "2", "5"],
+                "correct_answer": "3",
+                "question": "How many tonsils do most people have?"
+            },
+            {
+                "all_answers": ["Bones", "Birds", "The eye"],
+                "correct_answer": "Bones",
+                "question": "What does an osteologist study?"
+            },
+            {
+                "all_answers": ["1998", "1996", "2002"],
+                "correct_answer": "1998",
+                "question": "In what year was Google launched?"
+            },
+            {
+                "all_answers": ["The gums", "The eye", "The ear"],
+                "correct_answer": "The gums",
+                "question": "What's inflamed when you have gingivitis?"
+            },
+            {
+                "all_answers": ["Addendum", "Letra nova", "Native book"],
+                "correct_answer": "Addendum",
+                "question": "What's a book supplement called?"
+            },
+            {
+                "all_answers": ["Tooth enamel", "Brain", "Bone marrow"],
+                "correct_answer": "Tooth enamel",
+                "question": "What is the hardest material in the human body?"
+            },
+            {
+                "all_answers": ["Goosebumps", "Ambidextrous", "Kidney failure"],
+                "correct_answer": "Goosebumps",
+                "question": "What is meant by horripilation or spasmodermia?"
+            },
+            {
+                "all_answers": ["32", "28", "26"],
+                "correct_answer": "32",
+                "question": "How many teeth does a sheep have?"
+            },
+            {
+                "all_answers": ["2", "1", "3"],
+                "correct_answer": "2",
+                "question": "How many stomachs does a bird have?"
+            },
+            {
+                "all_answers": ["Gelding", "Hamel", "Nut"],
+                "correct_answer": "Gelding",
+                "question": "What's a castrated horse called?"
+            },
+            {
+                "all_answers": ["52 billion", "855 million", "93 billion"],
+                "correct_answer": "52 billion",
+                "question": "How many chickens are there on Earth?"
+            },
+            {
+                "all_answers": ["Cama", "Lacma", "Cala"],
+                "correct_answer": "Cama",
+                "question": "What's the cross between a camel and a llama called?"
+            },
+            {
+                "all_answers": ["Tin", "Gold", "Silver"],
+                "correct_answer": "Tin",
+                "question": "What material does an Oscar Award consist of for 925%?"
+            },
+            {
+                "all_answers": ["Mona Simpson", "Caty Stewart", "Sam Scott"],
+                "correct_answer": "Mona Simpson",
+                "question": "What's Homer Simpson's mother's name in the TV series the Simpsons?"
+            },
+            {
+                "all_answers": [
+                    "Steve Irwin",
+                    "John Singleton",
+                    "Lewis Gilbert"
+                ],
+                "correct_answer": "Steve Irwin",
+                "question": "To whom is the animated film Happy Feet dedicated?"
+            },
+            {
+                "all_answers": ["6", "4", "9"],
+                "correct_answer": "6",
+                "question": "How many legs does a cockroach have?"
+            },
+            {
+                "all_answers": ["16", "20", "14"],
+                "correct_answer": "16",
+                "question": "How many white chess pieces are there in a chess game?"
+            },
+            {
+                "all_answers": ["On a bush", "Under the ground", "On a tree"],
+                "correct_answer": "On a bush",
+                "question": "Where does pepper grow?"
+            },
+            {
+                "all_answers": ["2", "83", "129"],
+                "correct_answer": "129",
+                "question": "Which one of these numbers is not a prime number?"
+            },
+            {
+                "all_answers": ["1989", "1992", "1990"],
+                "correct_answer": "1989",
+                "question": "When did the fall of the Berlin Wall happen?"
+            },
+            {
+                "all_answers": ["1492", "1563", "1489"],
+                "correct_answer": "1492",
+                "question": "In what year was America discovered by Columbus?"
+            },
+            {
+                "all_answers": ["3", "42", "None"],
+                "correct_answer": "3",
+                "question": "How many railway lines does Afghanistan have?"
+            },
+            {
+                "all_answers": ["21.000 km", "9.000 km", "22.000 km"],
+                "correct_answer": "21.000 km",
+                "question": "How long is the Chinese wall?"
+            },
+            {
+                "all_answers": ["1997", "1999", "1998"],
+                "correct_answer": "1997",
+                "question": "In what year did Princess Diana die?"
+            },
+            {
+                "all_answers": ["7", "8", "6"],
+                "correct_answer": "7",
+                "question": "How many months in a year have 31 days?"
+            },
+            {
+                "all_answers": ["Shiz tzu", "Shar pei", "Pug"],
+                "correct_answer": "Shiz tzu",
+                "question": "Which dog used to be sacred in China?"
+            },
+            {
+                "all_answers": ["Goodyear", "Pirelli", "Michelin"],
+                "correct_answer": "Goodyear",
+                "question": "Who invented the vulcanised rubber?"
+            },
+            {
+                "all_answers": ["Cuba", "Mexico", "Brazil"],
+                "correct_answer": "Cuba",
+                "question": "What country is the cocktail Mojito from?"
+            },
+            {
+                "all_answers": [
+                    "13 million dollar",
+                    "9 million dollar",
+                    "31 million dollar"
+                ],
+                "correct_answer": "13 million dollar",
+                "question": "How much does the most expensive car in the world cost? (Rolls-Royce Sweptail)"
+            },
+            {
+                "all_answers": ["8", "6", "4"],
+                "correct_answer": "8",
+                "question": "How many strings does an ordinary mandolin have?"
+            },
+            {
+                "all_answers": ["1977", "1987", "1976"],
+                "correct_answer": "1977",
+                "question": "In what year was the first Star Wars movie made?"
+            },
+            {
+                "all_answers": ["7.000", "18.000", "200"],
+                "correct_answer": "7.000",
+                "question": "How many known languages are there in the whole world?"
+            },
+            {
+                "all_answers": ["122 years", "119 years", "134 years"],
+                "correct_answer": "122 years",
+                "question": "How old is the oldest human being of all time?"
+            },
+            {
+                "all_answers": ["10 million", "9 million", "11 million"],
+                "correct_answer": "10 million",
+                "question": "What is the area of Europe in square miles?"
+            },
+            {
+                "all_answers": ["116 years", "100 years", "99 years"],
+                "correct_answer": "116 years",
+                "question": "How long did the Hundred Years War last?"
+            },
+            {
+                "all_answers": ["Nirvana", "Queen", "The Beatles"],
+                "correct_answer": "Nirvana",
+                "question": "Who released the song 'It smells like teen spirit'?"
+            },
+            {
+                "all_answers": ["Rugby", "Soccer", "Water polo"],
+                "correct_answer": "Rugby",
+                "question": "Which one of these sports has the most players?"
+            },
+            {
+                "all_answers": ["Pb", "Lb", "Ld"],
+                "correct_answer": "Pb",
+                "question": "What is the abbreviation of the element lead in Mendeliev's table?"
+            },
+            {
+                "all_answers": ["3rd", "2nd", "4th"],
+                "correct_answer": "3rd",
+                "question": "If a cyclist crosses the third, how many is he?"
+            },
+            {
+                "all_answers": ["Canada", "Australia", "Russia"],
+                "correct_answer": "Canada",
+                "question": "What is the second largest country in the world?"
+            },
+            {
+                "all_answers": ["Nigeria", "Mali", "Uganda"],
+                "correct_answer": "Nigeria",
+                "question": "What's the country with the youngest population?"
+            },
+            {
+                "all_answers": [
+                    "Burj Khalifa",
+                    "Sears Tower",
+                    "Empire State Building"
+                ],
+                "correct_answer": "Burj Khalifa",
+                "question": "What's the tallest building in the world?"
+            },
+            {
+                "all_answers": ["390 km/h", "210 km/h", "160 km/h"],
+                "correct_answer": "390 km/h",
+                "question": "What's the top speed a peregrine falcon can reach?"
+            },
+            {
+                "all_answers": ["51 days", "50 days", "52 days"],
+                "correct_answer": "51 days",
+                "question": "It's November 10th, how many days is Christmas Eve?"
+            },
+            {
+                "all_answers": ["814 AD", "814 BC", "813 AD"],
+                "correct_answer": "814 AD",
+                "question": "In what year did Charlemagne die?"
+            },
+            {
+                "all_answers": ["274 cm", "268 cm", "302 cm"],
+                "correct_answer": "274 cm",
+                "question": "How Long is a ping-pong tabel?"
+            },
+            {
+                "all_answers": ["American", "Russian", "British"],
+                "correct_answer": "American",
+                "question": "What is the nationality of Neil Armstrong?"
+            },
+            {
+                "all_answers": ["Composer", "Philosopher", "Painter"],
+                "correct_answer": "Composer",
+                "question": "What was Chopin's profession?"
+            },
+            {
+                "all_answers": ["4", "6", "8"],
+                "correct_answer": "4",
+                "question": "How many strings does a cello have?"
+            },
+            {
+                "all_answers": ["Franks", "Visigoths", "Macedonians"],
+                "correct_answer": "Franks",
+                "question": "What people did Charlemagne belong to?"
+            },
+            {
+                "all_answers": [
+                    "Dzjengis Khan",
+                    "Alexander the Great",
+                    "Julius Caesar"
+                ],
+                "correct_answer": "Dzjengis Khan",
+                "question": "Who conquered the greatest empire in the world?"
+            },
+            {
+                "all_answers": ["Hg", "Ag", "Tm"],
+                "correct_answer": "Hg",
+                "question": "What's the abbreviation of the mercury element in Mendeliev's table?"
+            },
+            {
+                "all_answers": ["Lisbon", "Copenhagen", "Dublin"],
+                "correct_answer": "Lisbon",
+                "question": "Which European capital is on the Atlantic?"
+            },
+            {
+                "all_answers": ["Alloy", "Compositum", "Cohesion"],
+                "correct_answer": "Alloy",
+                "question": "What's the name of a mixture of a metal and another element?"
+            },
+            {
+                "all_answers": ["Tin", "Silver", "Lead"],
+                "correct_answer": "Tin",
+                "question": "What element was added to copper to obtain bronze?"
+            },
+            {
+                "all_answers": ["23", "21", "29"],
+                "correct_answer": "23",
+                "question": "What's the first prime number after 19?"
+            },
+            {
+                "all_answers": ["Ararat", "Aragats", "Azhdahak"],
+                "correct_answer": "Ararat",
+                "question": "What mountain was Noah's Ark on?"
+            },
+            {
+                "all_answers": ["Leopold", "Albert", "Otto"],
+                "correct_answer": "Leopold",
+                "question": "Who was the first king of Belgium?"
+            },
+            {
+                "all_answers": ["Lyme Disease", "Parkinson's", "ALS"],
+                "correct_answer": "Lyme Disease",
+                "question": "What disease is transmitted by a tick?"
+            },
+            {
+                "all_answers": ["Nanometer", "Picometer", "Micrometer"],
+                "correct_answer": "Nanometer",
+                "question": "What do you call the billionth part of a meter?"
+            },
+            {
+                "all_answers": [
+                    "British monarch",
+                    "US President",
+                    "French monarch"
+                ],
+                "correct_answer": "British monarch",
+                "question": "Who is the official head of state of Australia?"
+            },
+            {
+                "all_answers": ["Maple", "Oak", "Plane tree"],
+                "correct_answer": "Maple",
+                "question": "From what tree is the leaf on the Canadian flag?"
+            },
+            {
+                "all_answers": ["China", "Russia", "India"],
+                "correct_answer": "China",
+                "question": "Which landed third on the moon?"
+            },
+            {
+                "all_answers": ["Sandwich", "Hamburger", "Toast"],
+                "correct_answer": "Sandwich",
+                "question": "What food is named after an English earl?"
+            },
+            {
+                "all_answers": ["Pyongyang", "Seoul", "Hanoi"],
+                "correct_answer": "Pyongyang",
+                "question": "What's the name of North Korea's capital?"
+            },
+            {
+                "all_answers": ["Bonn", "Frankfurt", "Munich"],
+                "correct_answer": "Bonn",
+                "question": "What was the capital of West Germany?"
+            },
+            {
+                "all_answers": [
+                    "Tower of London",
+                    "Westminster Abbey",
+                    "Somerset House"
+                ],
+                "correct_answer": "Tower of London",
+                "question": "Where are the British crown jewels kept?"
+            },
+            {
+                "all_answers": ["Slovakia", "Slovenia", "Bulgaria"],
+                "correct_answer": "Slovakia",
+                "question": "Which country's capital is Bratislava?"
+            },
+            {
+                "all_answers": ["Yellow", "Green", "Black"],
+                "correct_answer": "Yellow",
+                "question": "Red and blue are primary colors, what's the third primary color?"
+            },
+            {
+                "all_answers": ["Nitrogen", "Oxygen", "Carbon dioxide"],
+                "correct_answer": "Nitrogen",
+                "question": "Which gas is most commonly found in the atmosphere?"
+            },
+            {
+                "all_answers": ["Tokyo", "Bejing", "Amsterdam"],
+                "correct_answer": "Tokyo",
+                "question": "Which capital was called Edo until 1868?"
+            },
+            {
+                "all_answers": ["Homonym", "Synonym", "Eponym"],
+                "correct_answer": "Homonym",
+                "question": "What's the name of a word that has different meanings?"
+            },
+            {
+                "all_answers": [
+                    "72 million dollar",
+                    "38 billion dollar",
+                    "62 billion dollar"
+                ],
+                "correct_answer": "72 million dollar",
+                "question": "How much did the United States buy Alaska from Russia in 1867?"
+            },
+            {
+                "all_answers": ["China", "Japan", "India"],
+                "correct_answer": "China",
+                "question": "In which country do you pay with Yuan?"
+            },
+            {
+                "all_answers": ["32", "30", "31"],
+                "correct_answer": "32",
+                "question": "At how many degrees Fahrenheit does water freeze?"
+            },
+            {
+                "all_answers": ["Mars", "Jupiter", "Pluto"],
+                "correct_answer": "Jupiter",
+                "question": "What's the name of the Roman version of Zeus?"
+            },
+            {
+                "all_answers": ["Eyebrows", "Ears", "Nipples"],
+                "correct_answer": "Eyebrows",
+                "question": "What's on either side of your glabella?"
+            },
+            {
+                "all_answers": ["Holocene", "Pliocene", "Pleistocene"],
+                "correct_answer": "Holocene",
+                "question": "What's the name of the geological age in which we live now?"
+            },
+            {
+                "all_answers": ["Siam", "Laos", "Satang"],
+                "correct_answer": "Siam",
+                "question": "What's the old name of Thailand?"
+            },
+            {
+                "all_answers": ["Million", "A thousand", "Billion"],
+                "correct_answer": "Million",
+                "question": "How many pixels is 1 megapixel?"
+            },
+            {
+                "all_answers": ["Etymology", "Morphology", "Syntax"],
+                "correct_answer": "Etymology",
+                "question": "Which science studies the origin of words?"
+            },
+            {
+                "all_answers": ["604.800", "602.400", "606.200"],
+                "correct_answer": "604.800",
+                "question": "How many seconds go in a week?"
+            },
+            {
+                "all_answers": ["Brasilia", "São Paulo", "Rio de Janeiro"],
+                "correct_answer": "Brasilia",
+                "question": "What is the capital of Brazil?"
+            },
+            {
+                "all_answers": ["Hindi", "English", "Assamese"],
+                "correct_answer": "Hindi",
+                "question": "What is the official language of India?"
+            },
+            {
+                "all_answers": ["Gretel", "Hans", "The lumberjack"],
+                "correct_answer": "Gretel",
+                "question": "Who's pushing the witch into the oven in the fairy tale Hansel and Gretel?"
+            },
+            {
+                "all_answers": ["Namibia", "Congo", "Algeria"],
+                "correct_answer": "Namibia",
+                "question": "In which African country is some German spoken?"
+            },
+            {
+                "all_answers": ["Link", "Zelda", "Tetra"],
+                "correct_answer": "Link",
+                "question": "What's the name of the protagonist in the video game series 'The Legend of Zelda'?"
+            },
+            {
+                "all_answers": ["Cerberus", "Hydra", "Satyr"],
+                "correct_answer": "Cerberus",
+                "question": "What's the name of Hades' three-headed dog?"
+            },
+            {
+                "all_answers": ["Neptune", "Saturn", "Uranus"],
+                "correct_answer": "Neptune",
+                "question": "Which planet is the furthest from earth?"
+            },
+            {
+                "all_answers": ["Nestor", "Veteror", "Senior"],
+                "correct_answer": "Nestor",
+                "question": "What is one word for the oldest person in a group of people?"
+            },
+            {
+                "all_answers": ["Mercury", "Venus", "Mars"],
+                "correct_answer": "Mercury",
+                "question": "Which planet is the closest to the sun?"
+            },
+            {
+                "all_answers": ["Pilate", "Judas", "Simon"],
+                "correct_answer": "Pilate",
+                "question": "Which biblical figure washed his hands of innocence?"
+            },
+            {
+                "all_answers": ["Marianne", "Lianne", "Celeste"],
+                "correct_answer": "Marianne",
+                "question": "Which lady is the national symbol of France?"
+            },
+            {
+                "all_answers": ["Oil", "Octane", "Xylene"],
+                "correct_answer": "Oil",
+                "question": "What do you add to make gasoline suitable for a two-stroke engine?"
+            },
+            {
+                "all_answers": ["It freezes", "It evaporates", "Nothing"],
+                "correct_answer": "It freezes",
+                "question": "What happens to water at 247 Kelvin?"
+            },
+            {
+                "all_answers": ["Wodan", "Thor", "Frig"],
+                "correct_answer": "Wodan",
+                "question": "Under which name is the Norwegian supreme god Odin best known?"
+            },
+            {
+                "all_answers": ["Spanish", "Portuguese", "Italian"],
+                "correct_answer": "Spanish",
+                "question": "Under which flag did Columbus sail when he discovered America"
+            },
+            {
+                "all_answers": ["Dr No", "Mr Big", "Le Chiffre"],
+                "correct_answer": "Dr No",
+                "question": "Who was James Bond's first enemy?"
+            },
+            {
+                "all_answers": ["The Hulk", "Gorilla", "Elektra"],
+                "correct_answer": "The Hulk",
+                "question": "What does Dr Bruce Banner change into when he gets furious?"
+            },
+            {
+                "all_answers": [
+                    "Billy the Kid",
+                    "Lucky Luke",
+                    "Old Shatterhad"
+                ],
+                "correct_answer": "Billy the Kid",
+                "question": "Which one of these three really existed?"
+            },
+            {
+                "all_answers": ["Thor", "Odin", "Vidar"],
+                "correct_answer": "Thor",
+                "question": "The Germanic god Donar is better known by his Norwegian name. What is it?"
+            },
+            {
+                "all_answers": ["Luxembourg", "Germany", "Austria"],
+                "correct_answer": "Luxembourg",
+                "question": "In wich country do people speak Letzeburgesch?"
+            },
+            {
+                "all_answers": ["Pokémon", "Ninjago", "Transformers"],
+                "correct_answer": "Pokémon",
+                "question": "Which media franchise is Pikachu a famous figure of?"
+            },
+            {
+                "all_answers": ["100.000 km", "25.000 km", "75.000 km"],
+                "correct_answer": "100.000 km",
+                "question": "What is the length of our vascular system?"
+            },
+            {
+                "all_answers": ["DNA", "Vomit", "Saliva"],
+                "correct_answer": "DNA",
+                "question": "By which name do we know deoxyribonucleic acid?"
+            },
+            {
+                "all_answers": ["Adriatic Sea", "Mediterranean", "Ionian Sea"],
+                "correct_answer": "Adriatic Sea",
+                "question": "Which sea is Venice on?"
+            },
+            {
+                "all_answers": ["Idefix", "Kostunrix", "Hoefnix"],
+                "correct_answer": "Idefix",
+                "question": "What's the name of the dog from Asterix and Obelix?"
+            },
+            {
+                "all_answers": ["Maltese", "Italian", "Spanish"],
+                "correct_answer": "Maltese",
+                "question": "Which language is, besides English, the second official language in Malta?"
+            },
+            {
+                "all_answers": ["Two-handed", "Left-handed", "Right-handed"],
+                "correct_answer": "Two-handed",
+                "question": "What are you when you're ambidextrous?"
+            },
+            {
+                "all_answers": ["Five", "Six", "Four"],
+                "correct_answer": "Five",
+                "question": "How many lines does a stave consist of?"
+            },
+            {
+                "all_answers": ["Saturday", "Sunday", "Friday"],
+                "correct_answer": "Saturday",
+                "question": "If it was Tuesday the day before yesterday, which day is it the day after tomorrow?"
+            },
+            {
+                "all_answers": ["Bar Mitswa", "Sjema", "Bat Mitswa"],
+                "correct_answer": "Bar Mitswa",
+                "question": "What's the name of the ceremony every Jewish boy does at the age of 13?"
+            },
+            {
+                "all_answers": ["85", "87", "79"],
+                "correct_answer": "85",
+                "question": "How much is 8 x 6 + 37?"
+            },
+            {
+                "all_answers": ["Wilhelm II", "Frederick III", "Adofl Hitler"],
+                "correct_answer": "Wilhelm II",
+                "question": "What was the name of the last German emperor?"
+            },
+            {
+                "all_answers": [
+                    "Silicon Valley",
+                    "San Francisco",
+                    "Silicon Fen"
+                ],
+                "correct_answer": "Silicon Valley",
+                "question": "What's the name of the high-tech region of California?"
+            },
+            {
+                "all_answers": ["Robin Hood", "Lucky Luke", "Billy the Kid"],
+                "correct_answer": "Robin Hood",
+                "question": "Who took on Prince John and the Sheriff of Nottingham?"
+            },
+            {
+                "all_answers": [
+                    "Chicken",
+                    "European house sparrow",
+                    "Red-billed weaver"
+                ],
+                "correct_answer": "Chicken",
+                "question": "What's the most common bird in the world?"
+            },
+            {
+                "all_answers": [
+                    "Dwarf seahorse",
+                    "Sea turtle",
+                    "Greenland shark"
+                ],
+                "correct_answer": "Dwarf seahorse",
+                "question": "Which fish swims the slowest?"
+            },
+            {
+                "all_answers": ["Wind speed", "Heartbeat", "Blood pressure"],
+                "correct_answer": "Wind speed",
+                "question": "What is measured by an anemometer?"
+            },
+            {
+                "all_answers": ["Sleep", "Manipulate", "Force"],
+                "correct_answer": "Sleep",
+                "question": "What does 'hypno' mean, as in hypnosis?"
+            },
+            {
+                "all_answers": ["Bacchus", "Ceres", "Aurora"],
+                "correct_answer": "Bacchus",
+                "question": "What is the Roman name for the Greek god Dionysus?"
+            },
+            {
+                "all_answers": [
+                    "Ohm's Law",
+                    "First Law of Kirchhoff",
+                    "Second Law of Kirchhoff"
+                ],
+                "correct_answer": "Ohm's Law",
+                "question": "What's this law called: Resistance x Current = Voltage?"
+            },
+            {
+                "all_answers": ["Yen", "Yuan", "Dollar"],
+                "correct_answer": "Yen",
+                "question": "What currency is used in Japan?"
+            },
+            {
+                "all_answers": ["12", "16", "14"],
+                "correct_answer": "12",
+                "question": "How many stars are there on the EU flag?"
+            },
+            {
+                "all_answers": ["Nile", "Amazon River", "Yangtze"],
+                "correct_answer": "Nile",
+                "question": "What's the longest river in the world?"
+            },
+            {
+                "all_answers": [
+                    "Pan-American Highway",
+                    "Highway 1",
+                    "Trans-Siberian Highway"
+                ],
+                "correct_answer": "Pan-American Highway",
+                "question": "What's the name of the longest road in the world?"
+            },
+            {
+                "all_answers": ["28", "26", "27"],
+                "correct_answer": "28",
+                "question": "How many letters does the Arabic alphabet consist of?"
+            },
+            {
+                "all_answers": ["Albanian", "Greek", "Hindi"],
+                "correct_answer": "Albanian",
+                "question": "What is the oldest language in the world?"
+            },
+            {
+                "all_answers": ["Coca Cola", "Big Mac sauce", "Heinz Ketchup"],
+                "correct_answer": "Coca Cola",
+                "question": "x7 is the code name for the secret recipe of?"
+            },
+            {
+                "all_answers": ["Greece", "Athens", "Italy"],
+                "correct_answer": "Greece",
+                "question": "In which country were the first Olympic Games held?"
+            },
+            {
+                "all_answers": [
+                    "Red and green",
+                    "Red and white",
+                    "Yellow and green"
+                ],
+                "correct_answer": "Red and green",
+                "question": "Which 2 colors are on the Moroccan flag?"
+            },
+            {
+                "all_answers": [
+                    "Michael Phelps",
+                    "Mark Spitz",
+                    "Katie Ledecky"
+                ],
+                "correct_answer": "Michael Phelps",
+                "question": "Which swimmer won 8 gold medals at the 2008 Olympics?"
+            },
+            {
+                "all_answers": [
+                    "Lance Armstrong",
+                    "Eddy Merckx",
+                    "Gino Bartali"
+                ],
+                "correct_answer": "Lance Armstrong",
+                "question": "The record holder victories of the Tour de France is..."
+            },
+            {
+                "all_answers": ["5", "7", "8"],
+                "correct_answer": "5",
+                "question": "How many times has Brazil won the UEFA World Cup?"
+            },
+            {
+                "all_answers": [
+                    "Muhammad Ali",
+                    "Floyd Mayweather",
+                    "Sugar Ray Robinson"
+                ],
+                "correct_answer": "Muhammad Ali",
+                "question": "Which boxer was born as Cassius Marcellus Clay?"
+            },
+            {
+                "all_answers": ["Thriller", "Their Greatest Hits", "The Wall"],
+                "correct_answer": "Their Greatest Hits",
+                "question": "The best-selling album of all time is..."
+            },
+            {
+                "all_answers": [
+                    "John Lennon",
+                    "Paul McCartney",
+                    "George Harrison"
+                ],
+                "correct_answer": "John Lennon",
+                "question": "Who's the founder of the group The Beatles?"
+            },
+            {
+                "all_answers": ["Erotica", "Ray of Light", "Music"],
+                "correct_answer": "Erotica",
+                "question": "Wich album did Madonna release in 1992?"
+            },
+            {
+                "all_answers": ["Colombia", "Panama", "South Africa"],
+                "correct_answer": "Colombia",
+                "question": "What is the homeland of Shakira?"
+            },
+            {
+                "all_answers": ["26", "27", "29"],
+                "correct_answer": "26",
+                "question": "How many countries does the European Union have?"
+            },
+            {
+                "all_answers": ["Malta", "Cyprus", "Monaco"],
+                "correct_answer": "Malta",
+                "question": "Which island state is located south of Sicily?"
+            },
+            {
+                "all_answers": ["Greenland", "Australia", "New Zealand"],
+                "correct_answer": "Greenland",
+                "question": "What's the biggest island in the world?"
+            },
+            {
+                "all_answers": ["Venus", "Mercury", "Mars"],
+                "correct_answer": "Venus",
+                "question": "What is the second planet in our solar system, counted from the sun?"
+            },
+            {
+                "all_answers": ["Tirana", "Berat", "Gjirokaster"],
+                "correct_answer": "Tirana",
+                "question": "What is the capital of Albany?"
+            },
+            {
+                "all_answers": ["Archipelago", "Tombolo", "Morene"],
+                "correct_answer": "Archipelago",
+                "question": "What is a land form consisting of a chain of islands?"
+            },
+            {
+                "all_answers": [
+                    "Sahara",
+                    "Arabian Desert",
+                    "Australian Desert"
+                ],
+                "correct_answer": "Sahara",
+                "question": "What's the name of the biggest sand desert on earth?"
+            },
+            {
+                "all_answers": ["Tokyo", "Delhi", "Shangai"],
+                "correct_answer": "Tokyo",
+                "question": "What's the biggest metropolis in the world?"
+            },
+            {
+                "all_answers": ["1568", "1569", "1570"],
+                "correct_answer": "1568",
+                "question": "When did the Eighty Years' War begin?"
+            },
+            {
+                "all_answers": ["Germany", "Belgium", "Netherlands"],
+                "correct_answer": "Germany",
+                "question": "Where was Peter Paul Rubens born?"
+            },
+            {
+                "all_answers": ["85 million", "80 million", "65 million"],
+                "correct_answer": "80 million",
+                "question": "How many deaths were there during World War II?"
+            },
+            {
+                "all_answers": ["13 million", "20 million", "18 million"],
+                "correct_answer": "18 million",
+                "question": "How many deaths were there during World War I?"
+            },
+            {
+                "all_answers": [
+                    "Holocaust",
+                    "Verfolgund der Juden",
+                    "Reinigung"
+                ],
+                "correct_answer": "Holocaust",
+                "question": "What's the name of the Nazi persecution of the Jews?"
+            }
+        ],
+        "nl": [
+            {
+                "all_answers": ["Griekenland", "Italie", "Spanje"],
+                "correct_answer": "Italie",
+                "question": "In welk huidig land leefden de Etrusken?"
+            },
+            {
+                "all_answers": ["Amazon", "Facebook", "Google"],
+                "correct_answer": "Amazon",
+                "question": "Welk Amerikaans e-commerce bedrijf werd in 1994 door Jeff Bezos opgericht?"
+            },
+            {
+                "all_answers": ["Nieren", "Beenmerg", "Lever"],
+                "correct_answer": "Beenmerg",
+                "question": "Waar in je lichaam worden rode bloedcellen geproduceerd?"
+            },
+            {
+                "all_answers": ["Maizena", "Zelfrijzend bakmeel", "Gist"],
+                "correct_answer": "Zelfrijzend bakmeel",
+                "question": "Wat krijg je als je bakpoeder aan meel toevoegt?"
+            },
+            {
+                "all_answers": ["Serena", "Venus", "Evenveel"],
+                "correct_answer": "Serena",
+                "question": "Welke Williams dochter heeft meer Grand Slam titels gewonnen?"
+            },
+            {
+                "all_answers": [
+                    "Olie op de baan",
+                    "Voertuig gecrasht",
+                    "Laatste ronde"
+                ],
+                "correct_answer": "Olie op de baan",
+                "question": "Wat betekent in de autosport een gele vlag met rode strepen?"
+            },
+            {
+                "all_answers": ["Amen", "Ave", "Soit"],
+                "correct_answer": "Amen",
+                "question": "Hoe zeg je 'het zij zo' in het Hebreeuws?"
+            },
+            {
+                "all_answers": ["Mestkever", "Kakkerlak", "Kat"],
+                "correct_answer": "Mestkever",
+                "question": "Welk dier is de scarabee, het Egyptische symbool voor vernieuwing?"
+            },
+            {
+                "all_answers": ["Auto-ongelukken", "Seconden", "Minuten"],
+                "correct_answer": "Seconden",
+                "question": "Waarvan zijn er 31.557.600 in een jaar?"
+            },
+            {
+                "all_answers": ["28", "30", "32"],
+                "correct_answer": "32",
+                "question": "Hoeveel tanden heeft een volwassen mens normaal?"
+            },
+            {
+                "all_answers": ["Interpol", "NAVO", "De Verenigde Naties"],
+                "correct_answer": "De Verenigde Naties",
+                "question": "Welke internationale organisatie stuurt de blauwhelmen?"
+            },
+            {
+                "all_answers": ["Mark", "Frank", "Kroon"],
+                "correct_answer": "Mark",
+                "question": "Voor de euro betaalde men in Finland met de..."
+            },
+            {
+                "all_answers": [
+                    "Hommes et mesdames",
+                    "Hennes en Mauritz",
+                    "Hennes en Moritz"
+                ],
+                "correct_answer": "Hennes en Mauritz",
+                "question": "Waarvan is H&M de afkorting?"
+            },
+            {
+                "all_answers": ["Chaudfontaine", "Vital", "Spa"],
+                "correct_answer": "Chaudfontaine",
+                "question": "Welk Belgisch bronwater heeft warmwaterbronnen op zijn domein liggen?"
+            },
+            {
+                "all_answers": ["Peseta", "Lire", "Drachme"],
+                "correct_answer": "Peseta",
+                "question": "Wat was voor de invoering van de euro, de Spaanse munteenheid?"
+            },
+            {
+                "all_answers": [
+                    "De Dag van de Arbeid",
+                    "De stichting van Europa",
+                    "Wapenstilstand"
+                ],
+                "correct_answer": "De Dag van de Arbeid",
+                "question": "Wat wordt in alle Europese landen op 1 mei gevierd?"
+            },
+            {
+                "all_answers": ["Spanje", "Ecuador", "Oostenrijk"],
+                "correct_answer": "Spanje",
+                "question": "Voor welk land staat de autosticker met de letter E?"
+            },
+            {
+                "all_answers": ["Zweden", "Noorwegen", "Duitsland"],
+                "correct_answer": "Zweden",
+                "question": "Uit welk land komt het automerk Volvo?"
+            },
+            {
+                "all_answers": ["100", "81", "121"],
+                "correct_answer": "100",
+                "question": "Hoeveel velden heeft een dambord?"
+            },
+            {
+                "all_answers": ["Algerije", "Congo", "Zuid-Afrika"],
+                "correct_answer": "Algerije",
+                "question": "Wat is het grootste land qua oppervlakte van Afrika?"
+            },
+            {
+                "all_answers": ["5", "7", "3"],
+                "correct_answer": "5",
+                "question": "Hoeveel keer won Eddy Merckx de Ronde van Frankrijk?"
+            },
+            {
+                "all_answers": [
+                    "UNESCO",
+                    "UNICEF",
+                    "World Heritage Protection"
+                ],
+                "correct_answer": "UNESCO",
+                "question": "Hoe noemt de organisatie die monumenten beschermt?"
+            },
+            {
+                "all_answers": ["Spoken", "Varkens", "Regen"],
+                "correct_answer": "Spoken",
+                "question": "Voor wat is Phasmophobia de vrees?"
+            },
+            {
+                "all_answers": ["Venus", "Mercurius", "Pluto"],
+                "correct_answer": "Venus",
+                "question": "Welke planeet is de heetste van ons zonnestelsel?"
+            },
+            {
+                "all_answers": ["Zweden", "Nederland", "Frankrijk"],
+                "correct_answer": "Zweden",
+                "question": "Wat was het eerste Europese land dat bankbiljetten gebruikte?"
+            },
+            {
+                "all_answers": ["Groen", "Bruin", "Doorzichtig"],
+                "correct_answer": "Groen",
+                "question": "Welke kleur had Coca-Cola oorspronkelijk?"
+            },
+            {
+                "all_answers": ["Duitsland", "Belgie", "Spanje"],
+                "correct_answer": "Duitsland",
+                "question": "Welk Europees land is de grootste consument van bier?"
+            },
+            {
+                "all_answers": ["28", "30", "26"],
+                "correct_answer": "28",
+                "question": "Hoeveel stukken zijn er in een standaard reeks domino's?"
+            },
+            {
+                "all_answers": [
+                    "George Washington",
+                    "George Walker Bush",
+                    "John F. Kennedy"
+                ],
+                "correct_answer": "George Washington",
+                "question": "Welke Amerikaanse president verschijnt op een 1 dollarbiljet?"
+            },
+            {
+                "all_answers": ["500", "200", "10"],
+                "correct_answer": "500",
+                "question": "Welk getal is 'D' in Romeinse cijfers"
+            },
+            {
+                "all_answers": ["Seat", "Fiat", "Audi"],
+                "correct_answer": "Audi",
+                "question": "Welk automerk is genoemd naar het Latijnse woord dat betekent 'ik hoor'?"
+            },
+            {
+                "all_answers": ["18 nullen", "30 nullen", "15 nullen"],
+                "correct_answer": "18 nullen",
+                "question": "Hoeveel nullen bevat een triljoen?"
+            },
+            {
+                "all_answers": ["Rood en wit", "Blauw en wit", "Rood en zwart"],
+                "correct_answer": "Rood en wit",
+                "question": "Welke 2 kleuren staan op de Poolse vlag?"
+            },
+            {
+                "all_answers": ["Zloty", "Blotz", "Euro"],
+                "correct_answer": "Zloty",
+                "question": "Wat is de naam van de munt die in Polen wordt gebruikt?"
+            },
+            {
+                "all_answers": ["Amerika", "Italie", "Israel"],
+                "correct_answer": "Amerika",
+                "question": "Welk land heeft de grootste christelijke populatie?"
+            },
+            {
+                "all_answers": ["Rood", "Blauw", "Groen"],
+                "correct_answer": "Rood",
+                "question": "Welke kleur bevindt zich aan de top van de regenboog?"
+            },
+            {
+                "all_answers": ["Canada", "Rusland", "Verenigd Koninkrijk"],
+                "correct_answer": "Canada",
+                "question": "In welk land werd de organisatie Greenpeace opgericht?"
+            },
+            {
+                "all_answers": ["Japan", "Canada", "Duitsland"],
+                "correct_answer": "Japan",
+                "question": "In welk van deze landen is er een Disneyland?"
+            },
+            {
+                "all_answers": ["2.54 cm", "2.56 cm", "2.73 cm"],
+                "correct_answer": "2.54 cm",
+                "question": "Hoeveel centimeter is 1 inch?"
+            },
+            {
+                "all_answers": ["4", "1", "Zoveel als hij wil"],
+                "correct_answer": "4",
+                "question": "Hoeveel vrouwen mag een man hebben volgens de Islamitische wet?"
+            },
+            {
+                "all_answers": ["Samba", "Salsa", "Balboa"],
+                "correct_answer": "Samba",
+                "question": "Wat is de nationale dans van Brazilie?"
+            },
+            {
+                "all_answers": ["Walker", "Washington", "Wiliam"],
+                "correct_answer": "Walker",
+                "question": "Waarvoor staat de 'W' in George W Bush?"
+            },
+            {
+                "all_answers": ["Zeus", "Hades", "Cronos"],
+                "correct_answer": "Zeus",
+                "question": "Wie was de oppergod in de Griekse mythologie?"
+            },
+            {
+                "all_answers": ["Mexico", "Brazilie", "Chili"],
+                "correct_answer": "Mexico",
+                "question": "Uit welk land komt Tequila?"
+            },
+            {
+                "all_answers": ["6", "3", "Geen"],
+                "correct_answer": "6",
+                "question": "Hoeveel sterren staan er op de vlag van Australie?"
+            },
+            {
+                "all_answers": ["13 strepen", "14 strepen", "12 strepen"],
+                "correct_answer": "13 strepen",
+                "question": "Hoeveel strepen zijn er op de Amerikaanse vlag?"
+            },
+            {
+                "all_answers": [
+                    "Leerkracht",
+                    "Vuilnisophaler",
+                    "Schoorsteenveger"
+                ],
+                "correct_answer": "Leerkracht",
+                "question": "Als u een 'chalkie' in Australie was, wat zou uw beroep dan zijn?"
+            },
+            {
+                "all_answers": ["Alpha", "Delta", "Beta"],
+                "correct_answer": "Alpha",
+                "question": "Wat is de eerste letter van het Griekse alfabet?"
+            },
+            {
+                "all_answers": ["Het oor", "De pols", "De enkel"],
+                "correct_answer": "Het oor",
+                "question": "In welk lichaamsdeel vind je het aambeeld?"
+            },
+            {
+                "all_answers": ["Basilicum", "Pesto", "Komkommer"],
+                "correct_answer": "Basilicum",
+                "question": "Wat maakt pestosaus groen?"
+            },
+            {
+                "all_answers": ["O", "A", "B"],
+                "correct_answer": "O",
+                "question": "Welke bloedgroep komt het meest voor?"
+            },
+            {
+                "all_answers": ["3", "2", "5"],
+                "correct_answer": "3",
+                "question": "Hoeveel amandelen hebben de meeste mensen?"
+            },
+            {
+                "all_answers": ["Botten", "Vogels", "Het oog"],
+                "correct_answer": "Botten",
+                "question": "Wat bestudeert een osteoloog?"
+            },
+            {
+                "all_answers": ["1998", "1996", "2002"],
+                "correct_answer": "1998",
+                "question": "In welk jaar werd de website Google gelanceerd?"
+            },
+            {
+                "all_answers": ["Het tandvlees", "Het oog", "Het oor"],
+                "correct_answer": "Het tandvlees",
+                "question": "Wat is ontstoken wanneer je last hebt van gingivitis?"
+            },
+            {
+                "all_answers": ["Addendum", "Letra nova", "Native book"],
+                "correct_answer": "Addendum",
+                "question": "Hoe wordt een bijvoegsel van een boek genoemd?"
+            },
+            {
+                "all_answers": ["Tandglazuur", "Hersenvlies", "Beenmerg"],
+                "correct_answer": "Tandglazuur",
+                "question": "Wat is het hardste materiaal van het menselijk lichaam?"
+            },
+            {
+                "all_answers": ["Kippenvel", "Ambidextrie", "Nierfalen"],
+                "correct_answer": "Kippenvel",
+                "question": "Wat wordt bedoeld met horripilatie of spasmodermie?"
+            },
+            {
+                "all_answers": ["32", "28", "26"],
+                "correct_answer": "32",
+                "question": "Hoeveel tanden heeft een schaap?"
+            },
+            {
+                "all_answers": ["2", "1", "3"],
+                "correct_answer": "2",
+                "question": "Hoeveel magen heeft een vogel?"
+            },
+            {
+                "all_answers": ["Ruin", "Hamel", "Reu"],
+                "correct_answer": "Ruin",
+                "question": "Hoe wordt een gecastreerd paard genoemd?"
+            },
+            {
+                "all_answers": ["52 miljard", "855 miljoen", "93 miljard"],
+                "correct_answer": "52 miljard",
+                "question": "Hoeveel kippen zijn er op aarde?"
+            },
+            {
+                "all_answers": ["Cama", "Lacma", "Cala"],
+                "correct_answer": "Cama",
+                "question": "Hoe wordt de kruising tussen een kameel en een lama genoemd?"
+            },
+            {
+                "all_answers": ["Tin", "Goud", "Zilver"],
+                "correct_answer": "Tin",
+                "question": "Uit welk materiaal bestaat een Oscar Award voor 92.5%?"
+            },
+            {
+                "all_answers": ["Mona Simpson", "Caty Stewart", "Sam Scott"],
+                "correct_answer": "Mona Simpson",
+                "question": "Hoe heet de moeder van Homer Simpson in de tv-serie the Simpsons?"
+            },
+            {
+                "all_answers": [
+                    "Steve Irwin",
+                    "John Singleton",
+                    "Lewis Gilbert"
+                ],
+                "correct_answer": "Steve Irwin",
+                "question": "Aan wie is de animatiefilm Happy Feet opgedragen?"
+            },
+            {
+                "all_answers": ["6", "4", "9"],
+                "correct_answer": "6",
+                "question": "Hoeveel poten heeft een kakkerlak?"
+            },
+            {
+                "all_answers": ["16", "20", "14"],
+                "correct_answer": "16",
+                "question": "Hoeveel witte schaakstukken zijn er in een schaakspel?"
+            },
+            {
+                "all_answers": [
+                    "Aan een struik",
+                    "Onder de grond",
+                    "Aan een boom"
+                ],
+                "correct_answer": "Aan een struik",
+                "question": "Waar groeit peper?"
+            },
+            {
+                "all_answers": ["2", "83", "129"],
+                "correct_answer": "129",
+                "question": "Welk van deze getallen is geen priemgetal?"
+            },
+            {
+                "all_answers": ["1989", "1992", "1990"],
+                "correct_answer": "1989",
+                "question": "Wanneer gebeurde de val van de Berlijnse muur?"
+            },
+            {
+                "all_answers": ["1492", "1563", "1489"],
+                "correct_answer": "1492",
+                "question": "In welk jaar werd Amerika ontdekt door Columbus?"
+            },
+            {
+                "all_answers": ["3", "42", "Geen"],
+                "correct_answer": "3",
+                "question": "Hoeveel spoorlijnen heeft Afghanistan?"
+            },
+            {
+                "all_answers": ["21.000 km", "9.000 km", "22.000 km"],
+                "correct_answer": "21.000 km",
+                "question": "Hoe lang is de Chinese muur?"
+            },
+            {
+                "all_answers": ["1997", "1999", "1998"],
+                "correct_answer": "1997",
+                "question": "In welk jaar is prinses Diana gestorven?"
+            },
+            {
+                "all_answers": ["7", "8", "6"],
+                "correct_answer": "7",
+                "question": "Hoeveel maanden in een jaar hebben 31 dagen?"
+            },
+            {
+                "all_answers": ["Shiz tzu", "Shar pei", "Mopshond"],
+                "correct_answer": "Shiz tzu",
+                "question": "Welk hondje was vroeger heilig in China?"
+            },
+            {
+                "all_answers": ["Goodyear", "Pirelli", "Michelin"],
+                "correct_answer": "Goodyear",
+                "question": "Wie vond het gevulkaniseerde rubber uit?"
+            },
+            {
+                "all_answers": ["Cuba", "Mexico", "Brazilie"],
+                "correct_answer": "Cuba",
+                "question": "Uit welk land komt de cocktail Mojito?"
+            },
+            {
+                "all_answers": [
+                    "13 miljoen dollar",
+                    "9 miljoen dollar",
+                    "31 miljoen dollar"
+                ],
+                "correct_answer": "13 miljoen dollar",
+                "question": "Hoeveel kost de duurste auto ter wereld? (Rolls-Royce Sweptail)"
+            },
+            {
+                "all_answers": ["8", "6", "4"],
+                "correct_answer": "8",
+                "question": "Hoeveel snaren heeft een gewone mandoline?"
+            },
+            {
+                "all_answers": ["1977", "1987", "1976"],
+                "correct_answer": "1977",
+                "question": "In welk jaar werd de eerste Star Wars film gemaakt?"
+            },
+            {
+                "all_answers": ["7000", "18000", "200"],
+                "correct_answer": "7000",
+                "question": "Hoeveel gekende talen zijn er ongeveer in heel de wereld?"
+            },
+            {
+                "all_answers": ["122 jaar", "119 jaar", "134 jaar"],
+                "correct_answer": "122 jaar",
+                "question": "Hoe oud is de oudste mens aller tijden?"
+            },
+            {
+                "all_answers": ["10 miljoen", "9 miljoen", "11 miljoen"],
+                "correct_answer": "10 miljoen",
+                "question": "Wat is de oppervlakte van Europa in vierkante kilometers?"
+            },
+            {
+                "all_answers": ["116 jaar", "100 jaar", "99 jaar"],
+                "correct_answer": "116 jaar",
+                "question": "Hoelang duurde de honderdjarige oorlog?"
+            },
+            {
+                "all_answers": ["Nirvana", "Queen", "The Beatles"],
+                "correct_answer": "Nirvana",
+                "question": "Wie bracht het liedje 'It smells like teen spirit' uit?"
+            },
+            {
+                "all_answers": ["Rugby", "Voetbal", "Waterpolo"],
+                "correct_answer": "Rugby",
+                "question": "Bij welk van deze sporten telt een ploeg de meeste spelers?"
+            },
+            {
+                "all_answers": ["Pb", "Lb", "Ld"],
+                "correct_answer": "Pb",
+                "question": "Wat is de afkorting van het element lood in de tabel van Mendeljev?"
+            },
+            {
+                "all_answers": ["3de", "2de", "4de"],
+                "correct_answer": "3de",
+                "question": "Als een wielrenner de derde voorbij steekt, hoeveelste is hij dan?"
+            },
+            {
+                "all_answers": ["Canada", "Australie", "Rusland"],
+                "correct_answer": "Canada",
+                "question": "Wat is het een na grootste land ter wereld?"
+            },
+            {
+                "all_answers": ["Nigeria", "Mali", "Uganda"],
+                "correct_answer": "Nigeria",
+                "question": "Wat is het land met de jongste bevolking?"
+            },
+            {
+                "all_answers": [
+                    "Burj Khalifa",
+                    "Sears Tower",
+                    "Empire State Building"
+                ],
+                "correct_answer": "Burj Khalifa",
+                "question": "Wat is het hoogste gebouw ter wereld?"
+            },
+            {
+                "all_answers": ["390 km/h", "210 km/h", "160 km/h"],
+                "correct_answer": "390 km/h",
+                "question": "Wat is de topsnelheid die een slechtvalk kan behalen?"
+            },
+            {
+                "all_answers": ["51 dagen", "50 dagen", "52 dagen"],
+                "correct_answer": "51 dagen",
+                "question": "Het is 10 november, over hoeveel dagen is het kerstavond?"
+            },
+            {
+                "all_answers": ["814 n.C.", "814 v.C.", "813 n.C."],
+                "correct_answer": "814 n.C.",
+                "question": "In welk jaar ging Karel de Grote dood?"
+            },
+            {
+                "all_answers": ["274 cm", "268 cm", "302 cm"],
+                "correct_answer": "274 cm",
+                "question": "Hoe lang is een pingpongtafel?"
+            },
+            {
+                "all_answers": ["Amerikaans", "Russisch", "Brits"],
+                "correct_answer": "Amerikaans",
+                "question": "Wat is de nationaliteit van Neil Armstrong?"
+            },
+            {
+                "all_answers": ["Componist", "Filosoof", "Schilder"],
+                "correct_answer": "Componist",
+                "question": "Wat was het beroep van Chopin?"
+            },
+            {
+                "all_answers": ["4", "6", "8"],
+                "correct_answer": "4",
+                "question": "Hoeveel snaren heeft een cello?"
+            },
+            {
+                "all_answers": ["Franken", "Visigoten", "Macedoniers"],
+                "correct_answer": "Franken",
+                "question": "Van welk volk was Karel de Grote keizer?"
+            },
+            {
+                "all_answers": [
+                    "Dzjengis Khan",
+                    "Alexander de Grote",
+                    "Julius Caesar"
+                ],
+                "correct_answer": "Dzjengis Khan",
+                "question": "Wie veroverde het grootste rijk ter wereld?"
+            },
+            {
+                "all_answers": ["Hg", "Ag", "Tm"],
+                "correct_answer": "Hg",
+                "question": "Wat is de afkorting van het element kwik in de tabel van Mendeljev?"
+            },
+            {
+                "all_answers": ["Lissabon", "Kopenhagen", "Dublin"],
+                "correct_answer": "Lissabon",
+                "question": "Welke Europese hoofdstad ligt aan de Atlantische Oceaan?"
+            },
+            {
+                "all_answers": ["Legering", "Compositum", "Cohesie"],
+                "correct_answer": "Legering",
+                "question": "Hoe heet een mengsel van een metaal met een ander element?"
+            },
+            {
+                "all_answers": ["Tin", "Zilver", "Lood"],
+                "correct_answer": "Tin",
+                "question": "Welk element is toegevoegd aan koper om brons te verkrijgen?"
+            },
+            {
+                "all_answers": ["23", "21", "29"],
+                "correct_answer": "23",
+                "question": "Wat is het eerste priemgetal na 19?"
+            },
+            {
+                "all_answers": ["Ararat", "Aragats", "Azhdahak"],
+                "correct_answer": "Ararat",
+                "question": "Op welke berg strandde de Ark van Noach?"
+            },
+            {
+                "all_answers": ["Leopold", "Albert", "Otto"],
+                "correct_answer": "Leopold",
+                "question": "Wie was de eerste koning van Belgie?"
+            },
+            {
+                "all_answers": ["Ziekte van Lyme", "Parkinson", "ALS"],
+                "correct_answer": "Ziekte van Lyme",
+                "question": "Welke ziekte wordt overgedragen door een teek?"
+            },
+            {
+                "all_answers": ["Nanometer", "Picometer", "Micrometer"],
+                "correct_answer": "Nanometer",
+                "question": "Waarmee duid je het miljardste deel van een meter aan?"
+            },
+            {
+                "all_answers": [
+                    "Britse vorst(in)",
+                    "Amerikaanse president",
+                    "Franse vorst(in)"
+                ],
+                "correct_answer": "Britse vorst(in)",
+                "question": "Wie is het officiele staatshoofd van Australie?"
+            },
+            {
+                "all_answers": ["Esdoorn", "Eik", "Plataan"],
+                "correct_answer": "Esdoorn",
+                "question": "Van welke boom staat het blad op de Canadese vlag?"
+            },
+            {
+                "all_answers": ["China", "Rusland", "India"],
+                "correct_answer": "China",
+                "question": "Welk land landde als derde op de maan?"
+            },
+            {
+                "all_answers": ["Sandwich", "Hamburger", "Toast"],
+                "correct_answer": "Sandwich",
+                "question": "Welke dubbele belegde boterham is vernoemd naar een Engelse graaf?"
+            },
+            {
+                "all_answers": ["Pyongyang", "Seoel", "Hanoi"],
+                "correct_answer": "Pyongyang",
+                "question": "Hoe heet de hoofdstad van Noord-Korea?"
+            },
+            {
+                "all_answers": ["Bonn", "Frankfurt", "Munchen"],
+                "correct_answer": "Bonn",
+                "question": "Wat was de hoofdstad van West-Duitsland?"
+            },
+            {
+                "all_answers": [
+                    "Tower of London",
+                    "Westminster Abbey",
+                    "Somerset House"
+                ],
+                "correct_answer": "Tower of London",
+                "question": "Waar worden de Britse kroonjuwelen bewaard?"
+            },
+            {
+                "all_answers": ["Slowakije", "Slovenie", "Bulgarije"],
+                "correct_answer": "Slowakije",
+                "question": "Van welk land is Bratislava de hoofdstad?"
+            },
+            {
+                "all_answers": ["Geel", "Groen", "Zwart"],
+                "correct_answer": "Geel",
+                "question": "Rood en blauw zijn primaire kleuren, wat is de derde primaire kleur?"
+            },
+            {
+                "all_answers": ["Stikstof", "Zuurstof", "Koolstofdioxide"],
+                "correct_answer": "Stikstof",
+                "question": "Welk gas komt het meeste voor in de atmosfeer?"
+            },
+            {
+                "all_answers": ["Tokio", "Bejing", "Amsterdam"],
+                "correct_answer": "Tokio",
+                "question": "Welke hoofdstad heette tot 1868 Edo?"
+            },
+            {
+                "all_answers": ["Homoniem", "Synoniem", "Eponiem"],
+                "correct_answer": "Homoniem",
+                "question": "Hoe heet een woord dat verschillende betekenissen heeft?"
+            },
+            {
+                "all_answers": [
+                    "7,2 miljoen dollar",
+                    "3,8 miljard dollar",
+                    "6,2 miljard dollar"
+                ],
+                "correct_answer": "7,2 miljoen dollar",
+                "question": "Voor hoeveel kochten de Verenigde Staten Alaska van Rusland in 1867?"
+            },
+            {
+                "all_answers": ["China", "Japan", "India"],
+                "correct_answer": "China",
+                "question": "In welk land betaal je met Yuan?"
+            },
+            {
+                "all_answers": ["32", "30", "31"],
+                "correct_answer": "32",
+                "question": "Bij hoeveel graden Fahrenheit bevriest water?"
+            },
+            {
+                "all_answers": ["Mars", "Jupiter", "Pluto"],
+                "correct_answer": "Jupiter",
+                "question": "Hoe heet de Romeinse variant van Zeus?"
+            },
+            {
+                "all_answers": ["Wenkbrauwen", "Oren", "Tepels"],
+                "correct_answer": "Wenkbrauwen",
+                "question": "Wat zit er aan weerszijden van je glabella?"
+            },
+            {
+                "all_answers": ["Holoceen", "Plioceen", "Pleistoceen"],
+                "correct_answer": "Holoceen",
+                "question": "Hoe heet het geologische tijdperk waarin wij nu leven?"
+            },
+            {
+                "all_answers": ["Siam", "Laos", "Satang"],
+                "correct_answer": "Siam",
+                "question": "Wat is de oude naam van Thailand?"
+            },
+            {
+                "all_answers": ["Miljoen", "Duizend", "Miljard"],
+                "correct_answer": "Miljoen",
+                "question": "Hoeveel pixels is 1 megapixel?"
+            },
+            {
+                "all_answers": ["Etymologie", "Morfologie", "Syntaxis"],
+                "correct_answer": "Etymologie",
+                "question": "Welke wetenschap bestudeert de oorsprong van woorden?"
+            },
+            {
+                "all_answers": ["604.800", "602.400", "606.200"],
+                "correct_answer": "604.800",
+                "question": "Hoeveel seconden gaan er in een week?"
+            },
+            {
+                "all_answers": ["Brasilia", "São Paulo", "Rio de Janeiro"],
+                "correct_answer": "Brasilia",
+                "question": "Wat is de hoofdstad van Brazilie?"
+            },
+            {
+                "all_answers": ["Hindi", "Engels", "Assamees"],
+                "correct_answer": "Hindi",
+                "question": "Wat is de officiele taal van India?"
+            },
+            {
+                "all_answers": ["Grietje", "Hans", "De houthakker"],
+                "correct_answer": "Grietje",
+                "question": "Door wie wordt de heks in de oven geduwd in het sprookje Hans en Grietje?"
+            },
+            {
+                "all_answers": ["Namibie", "Congo", "Algerije"],
+                "correct_answer": "Namibie",
+                "question": "In welk Afrikaans land wordt nog wat Duits gesproken?"
+            },
+            {
+                "all_answers": ["Link", "Zelda", "Tetra"],
+                "correct_answer": "Link",
+                "question": "Hoe heet de hoofdrolspeler in de videogame serie 'The Legend of Zelda'?"
+            },
+            {
+                "all_answers": ["Cerberus", "Hydra", "Satyr"],
+                "correct_answer": "Cerberus",
+                "question": "Hoe noemt de driekoppige hond van Hades?"
+            },
+            {
+                "all_answers": ["Neptunus", "Saturnus", "Uranus"],
+                "correct_answer": "Neptunus",
+                "question": "Welke planeet ligt het verst van aarde?"
+            },
+            {
+                "all_answers": ["Nestor", "Veteror", "Senior"],
+                "correct_answer": "Nestor",
+                "question": "Hoe noemt in 1 woord de oudste persoon van een groep mensen?"
+            },
+            {
+                "all_answers": ["Mercurius", "Venus", "Mars"],
+                "correct_answer": "Mercurius",
+                "question": "Welke planeet staat het dichtst bij de zon?"
+            },
+            {
+                "all_answers": ["Pilatus", "Judas", "Simon"],
+                "correct_answer": "Pilatus",
+                "question": "Welke bijbelse figuur waste zijn handen in onschuld?"
+            },
+            {
+                "all_answers": ["Marianne", "Lianne", "Celeste"],
+                "correct_answer": "Marianne",
+                "question": "Welke dame is het nationale symbool van Frankrijk?"
+            },
+            {
+                "all_answers": ["Olie", "Octaan", "Xyleen"],
+                "correct_answer": "Olie",
+                "question": "Wat voeg je toe om benzine geschikt te maken voor een tweetaktmotor?"
+            },
+            {
+                "all_answers": ["Het bevriest", "Het verdampt", "Niets"],
+                "correct_answer": "Het bevriest",
+                "question": "Wat gebeurt er met water bij 247 Kelvin?"
+            },
+            {
+                "all_answers": ["Wodan", "Thor", "Frig"],
+                "correct_answer": "Wodan",
+                "question": "Onder welke naam is de Noorse oppergod Odin nog meer bekend?"
+            },
+            {
+                "all_answers": ["Spaanse", "Portugese", "Italiaanse"],
+                "correct_answer": "Spaanse",
+                "question": "Onder welke vlag voer Columbus toen hij Amerika ontdekte?"
+            },
+            {
+                "all_answers": ["Dr. No", "Mr. Big", "Le Chiffre"],
+                "correct_answer": "Dr. No",
+                "question": "Wie was de eerste vijand van James Bond?"
+            },
+            {
+                "all_answers": ["De Hulk", "Gorilla", "Elektra"],
+                "correct_answer": "De Hulk",
+                "question": "Waarin verandert dr. Bruce Banner als hij woedend wordt?"
+            },
+            {
+                "all_answers": [
+                    "Billy the Kid",
+                    "Lucky Luke",
+                    "Old Shatterhad"
+                ],
+                "correct_answer": "Billy the Kid",
+                "question": "Wie van deze drie heeft echt bestaan?"
+            },
+            {
+                "all_answers": ["Thor", "Odin", "Vidar"],
+                "correct_answer": "Thor",
+                "question": "De Germaanse god Donar is bekender onder zijn Noorse naam, wat is die?"
+            },
+            {
+                "all_answers": ["Luxemburg", "Duitsland", "Oostenrijk"],
+                "correct_answer": "Luxemburg",
+                "question": "In welk land wordt Letzeburgs gesproken?"
+            },
+            {
+                "all_answers": ["Pokémon", "Ninjago", "Transformers"],
+                "correct_answer": "Pokémon",
+                "question": "Van welke media-franchise is Pikachu een bekend figuur?"
+            },
+            {
+                "all_answers": ["100.000 km", "25.000 km", "75.000 km"],
+                "correct_answer": "100.000 km",
+                "question": "Wat is de lengte van ons bloedvaatstelsel?"
+            },
+            {
+                "all_answers": ["DNA", "Braaksel", "Speeksel"],
+                "correct_answer": "DNA",
+                "question": "Onder welke naam kennen wij desoxyribonucleinezuur?"
+            },
+            {
+                "all_answers": [
+                    "Adriatische Zee",
+                    "Middellandse Zee",
+                    "Ionische Zee"
+                ],
+                "correct_answer": "Adriatische Zee",
+                "question": "Aan welke zee ligt Venetie?"
+            },
+            {
+                "all_answers": ["Idefix", "Kostunrix", "Hoefnix"],
+                "correct_answer": "Idefix",
+                "question": "Hoe heet het hondje uit Asterix en Obelix?"
+            },
+            {
+                "all_answers": ["Maltees", "Italiaans", "Spaans"],
+                "correct_answer": "Maltees",
+                "question": "Welke taal is, naast Engels, de tweede officiele taal op Malta?"
+            },
+            {
+                "all_answers": ["Tweehandig", "Linkshandig", "Rechtshandig"],
+                "correct_answer": "Tweehandig",
+                "question": "Wat ben je als je 'ambidexter' bent?"
+            },
+            {
+                "all_answers": ["Vijf", "Zes", "Vier"],
+                "correct_answer": "Vijf",
+                "question": "Uit hoeveel lijnen bestaat een notenbalk?"
+            },
+            {
+                "all_answers": ["Zaterdag", "Zondag", "Vrijdag"],
+                "correct_answer": "Zaterdag",
+                "question": "Als het eergisteren dinsdag was, wat is het dan overmorgen?"
+            },
+            {
+                "all_answers": ["Bar Mitswa", "Sjema", "Bat Mitswa"],
+                "correct_answer": "Bar Mitswa",
+                "question": "Hoe heet de plechtigheid die elke joodse jongen op zijn 13 jaar doet?"
+            },
+            {
+                "all_answers": ["85", "87", "79"],
+                "correct_answer": "85",
+                "question": "Hoeveel is 8 x 6 + 37?"
+            },
+            {
+                "all_answers": ["Wilhelm II", "Frederik III", "Adofl Hitler"],
+                "correct_answer": "Wilhelm II",
+                "question": "Hoe heette de laatste Duitse keizer?"
+            },
+            {
+                "all_answers": [
+                    "Silicon Valley",
+                    "San Francisco",
+                    "Silicon Fen"
+                ],
+                "correct_answer": "Silicon Valley",
+                "question": "Hoe heet de hightech regio van Californie?"
+            },
+            {
+                "all_answers": ["Robin Hood", "Lucky Luke", "Billy the Kid"],
+                "correct_answer": "Robin Hood",
+                "question": "Wie nam het op tegen prins John en de sheriff van Nottingham?"
+            },
+            {
+                "all_answers": ["Kip", "Europese huismus", "Roodbekwever"],
+                "correct_answer": "Kip",
+                "question": "Wat is de meest voorkomende vogel ter wereld?"
+            },
+            {
+                "all_answers": [
+                    "Dwergzeepaard",
+                    "Zeeschildpad",
+                    "Groenlandse haai"
+                ],
+                "correct_answer": "Dwergzeepaard",
+                "question": "Welke vissoort zwemt het langzaamst?"
+            },
+            {
+                "all_answers": ["Windsnelheid", "Hartslag", "Bloeddruk"],
+                "correct_answer": "Windsnelheid",
+                "question": "Wat wordt gemeten met een anemometer?"
+            },
+            {
+                "all_answers": ["Slaap", "Manipuleren", "Dwingen"],
+                "correct_answer": "Slaap",
+                "question": "Wat betekent 'hypno', zoals bijvooreeld in hypnose?"
+            },
+            {
+                "all_answers": ["Bacchus", "Ceres", "Aurora"],
+                "correct_answer": "Bacchus",
+                "question": "Wat is de Romeinse naam voor de Griekse god Dionysos?"
+            },
+            {
+                "all_answers": [
+                    "Wet van Ohm",
+                    "Eerste wet van Kirchhoff",
+                    "Tweede wet van Kirchhoff"
+                ],
+                "correct_answer": "Wet van Ohm",
+                "question": "Hoe heet deze wet: Weerstand x Stroom = Spanning?"
+            },
+            {
+                "all_answers": ["Yen", "Yuan", "Dollar"],
+                "correct_answer": "Yen",
+                "question": "Welke munteenheid gebruikt men in Japan?"
+            },
+            {
+                "all_answers": ["12", "16", "14"],
+                "correct_answer": "12",
+                "question": "Hoeveel sterren staan op de vlag van de EU?"
+            },
+            {
+                "all_answers": ["Nijl", "Amazone Rivier", "Yangtze"],
+                "correct_answer": "Nijl",
+                "question": "Wat is de langste rivier ter wereld?"
+            },
+            {
+                "all_answers": [
+                    "Pan-Amerikaanse snelweg",
+                    "Highway 1",
+                    "Trans-Siberische snelweg"
+                ],
+                "correct_answer": "Pan-Amerikaanse snelweg",
+                "question": "Hoe heet de langste weg ter wereld?"
+            },
+            {
+                "all_answers": ["28", "26", "27"],
+                "correct_answer": "28",
+                "question": "Uit hoeveel letters bestaat het Arabisch alfabet?"
+            },
+            {
+                "all_answers": ["Albanees", "Grieks", "Hindi"],
+                "correct_answer": "Albanees",
+                "question": "Wat is de oudste taal ter wereld?"
+            },
+            {
+                "all_answers": ["Coca Cola", "Big Mac-saus", "Heinz Ketchup"],
+                "correct_answer": "Coca Cola",
+                "question": "x7 is de codenaam voor het geheime recept van?"
+            },
+            {
+                "all_answers": ["Griekenland", "Athene", "Italie"],
+                "correct_answer": "Griekenland",
+                "question": "In welk land werden de eerste Olympische spelen georganiseerd?"
+            },
+            {
+                "all_answers": [
+                    "Rood en groen",
+                    "Rood en wit",
+                    "Geel en groen"
+                ],
+                "correct_answer": "Rood en groen",
+                "question": "Welke 2 kleuren staan op de Marokkaanse vlag?"
+            },
+            {
+                "all_answers": [
+                    "Michael Phelps",
+                    "Mark Spitz",
+                    "Katie Ledecky"
+                ],
+                "correct_answer": "Michael Phelps",
+                "question": "Welke zwemmer won 8 gouden medailles op de Olympische spelen in 2008?"
+            },
+            {
+                "all_answers": [
+                    "Lance Armstrong",
+                    "Eddy Merckx",
+                    "Gino Bartali"
+                ],
+                "correct_answer": "Lance Armstrong",
+                "question": "De recordhouder overwinningen van de Ronde van Frankrijk is..."
+            },
+            {
+                "all_answers": ["5", "7", "8"],
+                "correct_answer": "5",
+                "question": "Hoeveel keer is Brazilie wereldkampioen voetbal geworden?"
+            },
+            {
+                "all_answers": [
+                    "Muhammad Ali",
+                    "Floyd Mayweather",
+                    "Sugar Ray Robinson"
+                ],
+                "correct_answer": "Muhammad Ali",
+                "question": "Welke boxer werd geboren als Cassius Marcellus Clay?"
+            },
+            {
+                "all_answers": ["Thriller", "Their Greatest Hits", "The Wall"],
+                "correct_answer": "Their Greatest Hits",
+                "question": "Het best verkochte album aller tijden is?"
+            },
+            {
+                "all_answers": [
+                    "John Lennon",
+                    "Paul McCartney",
+                    "George Harrison"
+                ],
+                "correct_answer": "John Lennon",
+                "question": "Wie is de oprichter van de groep The Beatles?"
+            },
+            {
+                "all_answers": ["Erotica", "Ray of Light", "Music"],
+                "correct_answer": "Erotica",
+                "question": "Welk album bracht Madonna uit in 1992?"
+            },
+            {
+                "all_answers": ["Colombia", "Panama", "Zuid-Afrika"],
+                "correct_answer": "Colombia",
+                "question": "Wat is het geboorteland van Shakira?"
+            },
+            {
+                "all_answers": ["26", "27", "29"],
+                "correct_answer": "26",
+                "question": "Hoeveel landen telt de Europese Unie?"
+            },
+            {
+                "all_answers": ["Malta", "Cyprus", "Monaco"],
+                "correct_answer": "Malta",
+                "question": "Welke eilandstaat ligt ten zuiden van Sicilie?"
+            },
+            {
+                "all_answers": ["Groenland", "Australie", "Nieuw-Zeeland"],
+                "correct_answer": "Groenland",
+                "question": "Wat is het grootste eiland ter wereld?"
+            },
+            {
+                "all_answers": ["Venus", "Mercurius", "Mars"],
+                "correct_answer": "Venus",
+                "question": "Wat is de tweede planeet van ons zonnestelsel, vanaf de zon geteld?"
+            },
+            {
+                "all_answers": ["Tirana", "Berat", "Gjirokaster"],
+                "correct_answer": "Tirana",
+                "question": "Wat is de hoofdstad van Albanie?"
+            },
+            {
+                "all_answers": ["Archipel", "Tombolo", "Morene"],
+                "correct_answer": "Archipel",
+                "question": "Wat is een landvorm die bestaan uit een ketting van eilanden?"
+            },
+            {
+                "all_answers": [
+                    "Sahara",
+                    "Arabische Woestijn",
+                    "Australische Woestijn"
+                ],
+                "correct_answer": "Sahara",
+                "question": "Hoe heet de grootste zandwoestijn op aarde?"
+            },
+            {
+                "all_answers": ["Tokyo", "Delhi", "Shangai"],
+                "correct_answer": "Tokyo",
+                "question": "Wat is de grootste metropool ter wereld?"
+            },
+            {
+                "all_answers": ["1568", "1569", "1570"],
+                "correct_answer": "1568",
+                "question": "Wanneer is de Tachtigjarige Oorlog begonnen?"
+            },
+            {
+                "all_answers": ["Duitsland", "Belgie", "Nederland"],
+                "correct_answer": "Duitsland",
+                "question": "Waar is Peter Paul Rubens geboren?"
+            },
+            {
+                "all_answers": ["85 miljoen", "80 miljoen", "65 miljoen"],
+                "correct_answer": "80 miljoen",
+                "question": "Hoeveel doden vielen er ongeveer tijdens de Tweede Wereldoorlog?"
+            },
+            {
+                "all_answers": ["13 miljoen", "20 miljoen", "18 miljoen"],
+                "correct_answer": "18 miljoen",
+                "question": "Hoeveel doden vielen er ongeveer tijdens de Eerste Wereldoorlog?"
+            },
+            {
+                "all_answers": [
+                    "Holocaust",
+                    "Verfolgund der Juden",
+                    "Reinigung"
+                ],
+                "correct_answer": "Holocaust",
+                "question": "Hoe heet de Jodenvervolging door de Nazi's?"
+            }
+        ]
+    },
+    "versions": {
+        "latest_database": "0.7",
+        "latest_release": "0.49.2"
+    }
+}
