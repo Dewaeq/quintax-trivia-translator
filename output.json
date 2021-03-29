@@ -1124,6 +1124,109 @@
                 ],
                 "correct_answer": "Holocaust",
                 "question": "What's the name of the Nazi persecution of the Jews?"
+            },
+            {
+                "question": "How many time zones are there in Russia?",
+                "all_answers": ["7", "9", "11"],
+                "correct_answer": "11"
+            },
+            {
+                "question": "What’s the national flower of Japan?",
+                "all_answers": ["Cherry Blossom", "Red Rose", "Himawari"],
+                "correct_answer": "Cherry Blossom"
+            },
+            {
+                "question": "What country has the most islands in the world?",
+                "all_answers": ["Sweden", "Canada", "Finland"],
+                "correct_answer": "Sweden"
+            },
+            {
+                "question": "Name the largest (not highest) mountain range in the world?",
+                "all_answers": ["Andes", "Rocky Mountains", "Himalayas"],
+                "correct_answer": "Andes"
+            },
+            {
+                "question": "Name the best-selling book series of the 21st century?",
+                "all_answers": ["Harry Potter", "Twilight", "The Hunger Games"],
+                "correct_answer": "Harry Potter"
+            },
+            {
+                "question": "Which famous graffiti artist comes from Bristol?",
+                "all_answers": ["Banksy", "Gaia", "Ant Carver"],
+                "correct_answer": ""
+            },
+            {
+                "question": "Which famous graffiti artist comes from Bristol?",
+                "all_answers": ["Banksy", "Gaia", "Ant Carver"],
+                "correct_answer": "Banksy"
+            },
+            {
+                "question": "When did they open the London underground?",
+                "all_answers": ["1863", "1859", "1872"],
+                "correct_answer": "1863"
+            },
+            {
+                "question": "When was the World Wide Web invented?",
+                "all_answers": ["1990", "1987", "1983"],
+                "correct_answer": "1990"
+            },
+            {
+                "question": "Where is Billie Eilish from?",
+                "all_answers": ["Los Angeles", "Chicago", "Seattle"],
+                "correct_answer": "Los Angeles"
+            },
+            {
+                "question": "How many keys does a classic piano have?",
+                "all_answers": ["88", "86", "84"],
+                "correct_answer": "88"
+            },
+            {
+                "question": "In what franchise would you find the character Katniss Everdeen?",
+                "all_answers": [
+                    "The Hunger Games",
+                    "Harry Potter",
+                    "Game of Thrones"
+                ],
+                "correct_answer": "The Hunger Games"
+            },
+            {
+                "question": "What year was Heinz established?",
+                "all_answers": ["1869", "1868", "1867"],
+                "correct_answer": "1869"
+            },
+            {
+                "question": "What is the capital of Iceland?",
+                "all_answers": ["Reykjavík", "Ljubljana", "Oslo"],
+                "correct_answer": "Reykjavík"
+            },
+            {
+                "question": "Who painted the Mona Lisa?",
+                "all_answers": [
+                    "Leonardo da Vinci",
+                    "Michelangelo",
+                    "Rembrandt"
+                ],
+                "correct_answer": "Leonardo da Vinci"
+            },
+            {
+                "question": "How many valves does the heart have?",
+                "all_answers": ["4", "3", "5"],
+                "correct_answer": "4"
+            },
+            {
+                "question": "In Harry Potter, what is the name of The Weasley's house?",
+                "all_answers": ["The Burrow", "Privet Drive", "Hogwarts"],
+                "correct_answer": "The Burrow"
+            },
+            {
+                "question": "How many minutes are there in a game of rugby league?",
+                "all_answers": ["80", "90", "120"],
+                "correct_answer": "80"
+            },
+            {
+                "question": "What fruit takes the scientific name Mangifera indica?",
+                "all_answers": ["Mango", "Avocado", "Peach"],
+                "correct_answer": "Mango"
             }
         ],
         "nl": [
@@ -2249,11 +2352,110 @@
                 ],
                 "correct_answer": "Holocaust",
                 "question": "Hoe heet de Jodenvervolging door de Nazi's?"
+            },
+            {
+                "question": "Hoeveel tijdzones zijn er in Rusland?",
+                "all_answers": ["7", "9", "11"],
+                "correct_answer": "11"
+            },
+            {
+                "question": "Wat is de nationale bloem van Japan?",
+                "all_answers": ["kersenbloesem", "Rode roos", "Himawari"],
+                "correct_answer": "kersenbloesem"
+            },
+            {
+                "question": "Welk land heeft de meeste eilanden ter wereld?",
+                "all_answers": ["Zweden", "Canada", "Finland"],
+                "correct_answer": "Zweden"
+            },
+            {
+                "question": "Noem de grootste (niet hoogste) bergketen ter wereld?",
+                "all_answers": ["Andes", "Rocky Mountains", "Himalaya"],
+                "correct_answer": "Andes"
+            },
+            {
+                "question": "Noem de best verkochte boekenreeks van de 21ste eeuw?",
+                "all_answers": [
+                    "Harry Potter",
+                    "Twilight",
+                    "De Hongerspelen"
+                ],
+                "correct_answer": "Harry Potter"
+            },
+            {
+                "question": "Welke beroemde graffitikunstenaar komt uit Bristol?",
+                "all_answers": ["Banksy", "Gaia", "Ant Carver"],
+                "correct_answer": "Banksy"
+            },
+            {
+                "question": "Wanneer hebben ze de Londense metro geopend?",
+                "all_answers": ["1863", "1859", "1872"],
+                "correct_answer": "1863"
+            },
+            {
+                "question": "Wanneer is het World Wide Web uitgevonden?",
+                "all_answers": ["1990", "1987", "1983"],
+                "correct_answer": "1990"
+            },
+            {
+                "question": "Waar komt Billie Eilish vandaan?",
+                "all_answers": ["Los Angeles", "Chicago", "Seattle"],
+                "correct_answer": "Los Angeles"
+            },
+            {
+                "question": "Hoeveel toetsen heeft een klassieke piano?",
+                "all_answers": ["88", "86", "84"],
+                "correct_answer": "88"
+            },
+            {
+                "question": "In welke franchise zou je het personage Katniss Everdeen vinden?",
+                "all_answers": [
+                    "De Hongerspelen",
+                    "Harry Potter",
+                    "Game of Thrones"
+                ],
+                "correct_answer": "De Hongerspelen"
+            },
+            {
+                "question": "In welk jaar werd Heinz opgericht?",
+                "all_answers": ["1869", "1868", "1867"],
+                "correct_answer": "1869"
+            },
+            {
+                "question": "Wat is de hoofdstad van IJsland?",
+                "all_answers": ["Reykjavík", "Ljubljana", "Oslo"],
+                "correct_answer": "Reykjavík"
+            },
+            {
+                "question": "Wie heeft de Mona Lisa geschilderd?",
+                "all_answers": [
+                    "Leonardo da Vinci",
+                    "Michelangelo",
+                    "Rembrandt"
+                ],
+                "correct_answer": "Leonardo da Vinci"
+            },
+            {
+                "question": "Hoeveel kleppen heeft het hart?",
+                "all_answers": ["4", "3", "5"],
+                "correct_answer": "4"
+            },
+            {
+                "question": "Hoe heet het huis van de Wemels in Harry Potter?",
+                "all_answers": ["Het Nest", "Privé Rit", "Zweinstein"],
+                "correct_answer": "Het Nest"
+            },
+            {
+                "question": "Hoeveel minuten zijn er in een rugby league-wedstrijd?",
+                "all_answers": ["80", "90", "120"],
+                "correct_answer": "80"
+            },
+            {
+                "question": "Welke vrucht heeft de wetenschappelijke naam Mangifera indica?",
+                "all_answers": ["Mango", "Avocado", "Perzik"],
+                "correct_answer": "Mango"
             }
         ]
     },
-    "versions": {
-        "latest_database": "0.7",
-        "latest_release": "0.49.2"
-    }
+    "versions": { "latest_database": "0.9", "latest_release": "0.50.91" }
 }
