@@ -1,4 +1,5 @@
 from textblob import TextBlob
+from textblob.exceptions import NotTranslated
 
 class Question:
     def __init__(self, language, question, allAnswers, correctAnswer):
@@ -26,5 +27,10 @@ class Question:
 
 def translateString(text, toLanguage):
     b = TextBlob(text)
-    return b.translate(to=toLanguage).string
+    try: 
+        b = b.translate(to=toLanguage)
+    except:
+        pass
+        # print("failed to translate '{text}' to '{toLang}'".format(text=text, toLang=toLanguage))
+    return b.string
 

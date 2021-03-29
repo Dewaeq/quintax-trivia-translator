@@ -29,6 +29,7 @@ def loadQuestionFromInput(inputLanguage):
 
 def addQuestion(inputLanguage, question, allAnswers, correctAnswer, fromData=False):
     q = Question(inputLanguage, question, allAnswers, correctAnswer)
+    print('adding: ' + q.question)
 
     for language in LANGUAGES:
         if (fromData and language != inputLanguage) or not fromData:
@@ -53,8 +54,8 @@ def save():
 
         data['all_questions'][x.language].append(questionData)
 
-    with open('output.json', 'w+') as outfile:
-        json.dump(data, outfile)
+    with open('output.json', 'w+', encoding='utf8') as outfile:
+        json.dump(data, outfile, ensure_ascii=False)
 
 
 def loadQuestionsFromData():
@@ -83,5 +84,6 @@ def main():
             break
 
 
-main()
+if __name__ == '__main__':
+    main()
 # loadQuestionsFromData()
