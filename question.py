@@ -31,6 +31,5 @@ def translateString(text, toLanguage):
         b = b.translate(to=toLanguage)
     except:
         pass
-        # print("failed to translate '{text}' to '{toLang}'".format(text=text, toLang=toLanguage))
     return b.string
 

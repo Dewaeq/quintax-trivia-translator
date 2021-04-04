@@ -1,14 +1,6 @@
 import tkinter as tk
 import main
-
-
-class TextEntry():
-    def __init__(self, text: str):
-        self.label = tk.Label(text=text)
-        self.label.pack()
-
-        self.entry = tk.Entry(width=50)
-        self.entry.pack()
+from gui.text_entry import TextEntry
 
 
 class GUI():
@@ -53,5 +45,5 @@ def submit(gui: GUI):
                      allAnswers, gui.correctAnswer.entry.get())
     gui.clear()
 
-
-gui = GUI()
+def init():
+    gui = GUI()

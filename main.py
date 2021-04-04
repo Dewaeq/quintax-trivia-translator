@@ -1,6 +1,8 @@
 import json
 from typing import List
+from datetime import datetime
 from question import *
+import gui.gui as gui
 
 jsonData = json.load(open('output.json', encoding="utf-8"))
 LANGUAGES: List[str] = jsonData['languages']
@@ -83,7 +85,17 @@ def main():
             save()
             break
 
+def backup():
+    current_date = datetime.today().replace(microsecond=0)
+    backup_name = 'backup_' + str(current_date).replace(' ', '_').replace(':', '꞉') + '.json'
+    print(backup_name)
+    
+    with open(backup_name, 'w+', encoding='utf8') as outfile:
+        json.dump(jsonData, outfile, ensure_ascii=False)
+
+def start_gui():
+    gui.init()
 
 if __name__ == '__main__':
-    main()
-# loadQuestionsFromData()
+    backup()
+    start_gui()

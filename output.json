@@ -776,7 +776,7 @@
             {
                 "all_answers": ["Marianne", "Lianne", "Celeste"],
                 "correct_answer": "Marianne",
-                "question": "Which lady is the national symbol of France?"
+                "question": "Which lady is the national symbol of the France Republic?"
             },
             {
                 "all_answers": ["Oil", "Octane", "Xylene"],
@@ -1054,7 +1054,7 @@
             },
             {
                 "all_answers": ["26", "27", "29"],
-                "correct_answer": "26",
+                "correct_answer": "27",
                 "question": "How many countries does the European Union have?"
             },
             {
@@ -1149,11 +1149,6 @@
                 "question": "Name the best-selling book series of the 21st century?",
                 "all_answers": ["Harry Potter", "Twilight", "The Hunger Games"],
                 "correct_answer": "Harry Potter"
-            },
-            {
-                "question": "Which famous graffiti artist comes from Bristol?",
-                "all_answers": ["Banksy", "Gaia", "Ant Carver"],
-                "correct_answer": ""
             },
             {
                 "question": "Which famous graffiti artist comes from Bristol?",
@@ -2004,7 +1999,7 @@
             {
                 "all_answers": ["Marianne", "Lianne", "Celeste"],
                 "correct_answer": "Marianne",
-                "question": "Welke dame is het nationale symbool van Frankrijk?"
+                "question": "Welke dame is het nationale symbool van de Franse Republiek?"
             },
             {
                 "all_answers": ["Olie", "Octaan", "Xyleen"],
@@ -2282,7 +2277,7 @@
             },
             {
                 "all_answers": ["26", "27", "29"],
-                "correct_answer": "26",
+                "correct_answer": "27",
                 "question": "Hoeveel landen telt de Europese Unie?"
             },
             {
@@ -2360,8 +2355,8 @@
             },
             {
                 "question": "Wat is de nationale bloem van Japan?",
-                "all_answers": ["kersenbloesem", "Rode roos", "Himawari"],
-                "correct_answer": "kersenbloesem"
+                "all_answers": ["Kersenbloesem", "Rode roos", "Himawari"],
+                "correct_answer": "Kersenbloesem"
             },
             {
                 "question": "Welk land heeft de meeste eilanden ter wereld?",
