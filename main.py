@@ -11,7 +11,7 @@ LANGUAGES: List[str] = jsonData['languages']
 questions: List[Question] = []
 
 
-def loadQuestionFromInput(inputLanguage):
+def loadQuestionFromInput(qId, inputLanguage):
     question = input("Question: ")
     answer1 = input("Answer 1: ")
     answer2 = input("Answer 2: ")
@@ -27,13 +27,16 @@ def loadQuestionFromInput(inputLanguage):
             break
         print("Correct Answer must be in allAnswers!")
 
-    addQuestion(inputLanguage, question, allAnswers, correctAnswer)
+    addQuestion(qId, inputLanguage, question, allAnswers, correctAnswer)
 
 
-def addQuestion(inputLanguage, question, allAnswers, correctAnswer, fromData=False):
-    q = Question(inputLanguage, question, allAnswers, correctAnswer)
+def addQuestion(qId, inputLanguage, question, allAnswers: List[str], correctAnswer, fromData=False):
+    q = Question(qId, inputLanguage, question, allAnswers, correctAnswer)
     print('adding: ' + q.question)
 
+    assert len([x for x in allAnswers if x != None and x != '']) == 3
+    assert correctAnswer in allAnswers
+    
     for language in LANGUAGES:
         if (fromData and language != inputLanguage) or not fromData:
             translated = q.translateQuestion(language)
@@ -52,7 +55,8 @@ def save():
         questionData = {
             "question": x.question,
             "all_answers": x.allAnswers,
-            "correct_answer": x.correctAnswer
+            "correct_answer": x.correctAnswer,
+            "id": x.id
         }
 
         data['all_questions'][x.language].append(questionData)
@@ -66,6 +70,7 @@ def loadQuestionsFromData():
         for question in jsonData['all_questions'][lan]:
 
             addQuestion(
+                question['id'],
                 lan, question['question'],
                 question['all_answers'],
                 question['correct_answer'],
@@ -79,8 +84,11 @@ def main():
 
     assert inputLanguage in LANGUAGES
 
+    qId = jsonData['all_questions'][inputLanguage][-1]['id']
+    
     while True:
-        loadQuestionFromInput(inputLanguage)
+        qId += 1
+        loadQuestionFromInput(qId, inputLanguage)
 
         if 'q' in input('Continue (any key) of quit(q): '):
             save()

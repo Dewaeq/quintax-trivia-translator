@@ -1,8 +1,11 @@
+from ctypes import string_at
 from textblob import TextBlob
 from textblob.exceptions import NotTranslated
+from typing import List
 
 class Question:
-    def __init__(self, language, question, allAnswers, correctAnswer):
+    def __init__(self, id: int, language: str, question: str, allAnswers: List[str], correctAnswer: string_at):
+        self.id = id
         self.language = language
         self.question = question
         self.allAnswers = allAnswers
@@ -22,7 +25,7 @@ class Question:
 
         assert newCorrectAnswer in newAnswers
 
-        return Question(toLanguage, newQuestion, newAnswers, newCorrectAnswer)
+        return Question(self.id, toLanguage, newQuestion, newAnswers, newCorrectAnswer)
 
 
 def translateString(text, toLanguage):

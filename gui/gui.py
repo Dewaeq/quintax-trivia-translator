@@ -1,6 +1,10 @@
 import tkinter as tk
 import main
+import json
 from gui.text_entry import TextEntry
+
+inputLanguage = 'en'
+qId = -1
 
 
 class GUI():
@@ -24,8 +28,9 @@ class GUI():
         self.save = tk.Button(text="Save", command=lambda: save())
         self.save.pack()
 
+    def start(self):
         self.window.mainloop()
-        
+
     def clear(self):
         self.question.entry.delete(0, tk.END)
         self.answer1.entry.delete(0, tk.END)
@@ -39,11 +44,27 @@ def save():
 
 
 def submit(gui: GUI):
+
+    global qId
+    qId += 1
+
     allAnswers = [gui.answer1.entry.get(), gui.answer2.entry.get(),
                   gui.answer3.entry.get()]
-    main.addQuestion('en', gui.question.entry.get(),
+    main.addQuestion(qId, inputLanguage, gui.question.entry.get(),
                      allAnswers, gui.correctAnswer.entry.get())
     gui.clear()
 
+
 def init():
+    jsonData = json.load(open('output.json', encoding="utf-8"))
+
+    lastIds = [jsonData['all_questions'][x][-1]['id']
+               for x in jsonData['all_questions']]
+    
+    assert lastIds.count(lastIds[0]) == len(lastIds)
+
+    global qId
+    qId = lastIds[0]
+
     gui = GUI()
+    gui.start()
