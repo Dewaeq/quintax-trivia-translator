@@ -4,4 +4,4 @@ __pycache__
 env
 venv
 
-backup_*.json
+backups/

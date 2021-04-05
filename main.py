@@ -49,7 +49,7 @@ def save():
     data['all_questions'] = {} """
 
     for x in questions:
-        if not x.language in data['all_questions'].keys():
+        if x.language not in data['all_questions'].keys():
             data['all_questions'][x.language] = []
 
         questionData = {
@@ -79,7 +79,7 @@ def loadQuestionsFromData():
     save()
 
 
-def main():
+""" def main():
     inputLanguage = input("Input Language: ")
 
     assert inputLanguage in LANGUAGES
@@ -93,7 +93,7 @@ def main():
         if 'q' in input('Continue (any key) of quit(q): '):
             save()
             break
-
+ """
 
 def start_gui():
     gui.init()
