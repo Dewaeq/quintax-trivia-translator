@@ -1,6 +1,5 @@
 import json
 from typing import List
-from datetime import datetime
 from question import *
 import gui.gui as gui
 import backup as backup
@@ -36,7 +35,7 @@ def addQuestion(qId, inputLanguage, question, allAnswers: List[str], correctAnsw
 
     assert len([x for x in allAnswers if x != None and x != '']) == 3
     assert correctAnswer in allAnswers
-    
+
     for language in LANGUAGES:
         if (fromData and language != inputLanguage) or not fromData:
             translated = q.translateQuestion(language)
@@ -44,6 +43,19 @@ def addQuestion(qId, inputLanguage, question, allAnswers: List[str], correctAnsw
 
 
 def save():
+
+    if not questions:
+        return
+
+    override = False
+    for lang in LANGUAGES:
+        if len([x for x in questions if x.language == lang]) != len(jsonData['all_questions'][lang]):
+            override = True
+            break
+
+    if not override:
+        return
+
     data = jsonData
     """ data = {}
     data['all_questions'] = {} """
@@ -94,6 +106,7 @@ def loadQuestionsFromData():
             save()
             break
  """
+
 
 def start_gui():
     gui.init()
