@@ -43,7 +43,6 @@ def addQuestion(qId, inputLanguage, question, allAnswers: List[str], correctAnsw
 
 
 def save():
-
     if not questions:
         return
 
@@ -57,8 +56,6 @@ def save():
         return
 
     data = jsonData
-    """ data = {}
-    data['all_questions'] = {} """
 
     for x in questions:
         if x.language not in data['all_questions'].keys():
@@ -91,27 +88,6 @@ def loadQuestionsFromData():
     save()
 
 
-""" def main():
-    inputLanguage = input("Input Language: ")
-
-    assert inputLanguage in LANGUAGES
-
-    qId = jsonData['all_questions'][inputLanguage][-1]['id']
-    
-    while True:
-        qId += 1
-        loadQuestionFromInput(qId, inputLanguage)
-
-        if 'q' in input('Continue (any key) of quit(q): '):
-            save()
-            break
- """
-
-
-def start_gui():
-    gui.init()
-
-
 if __name__ == '__main__':
     backup.backup()
-    start_gui()
+    gui.init()

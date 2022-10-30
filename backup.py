@@ -1,13 +1,14 @@
-from datetime import datetime
 import pathlib
 import json
-import glob
+from os import path
+from datetime import datetime
+from glob import glob
 
 jsonData = json.load(open('output.json', encoding='utf-8'))
 
 
 def _has_backup():
-    allBackups = [file for file in glob.glob('backups/*.json')]
+    allBackups = [file for file in glob('backups/*.json')]
     for filePath in allBackups:
         data = json.load(open(filePath, encoding='utf-8'))
 
@@ -27,5 +28,5 @@ def backup():
     backup_name = 'backup_' + \
         str(current_date).replace(' ', '_').replace(':', '꞉') + '.json'
 
-    with open(p / backup_name, 'w+', encoding='utf8') as outfile:
+    with open(path.join(p, backup_name), 'w+', encoding='utf8') as outfile:
         json.dump(jsonData, outfile, ensure_ascii=False)

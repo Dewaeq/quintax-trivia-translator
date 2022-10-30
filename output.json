@@ -2890,5 +2890,8 @@
             }
         ]
     },
-    "versions": { "latest_database": "0.9", "latest_release": "0.50.91" }
+    "patch_notes": {
+        "0_60_01": "This first stable 0.6 release brings a lot of bug-fixes and performance improvements."
+    },
+    "versions": { "latest_database": "0.9", "latest_release": "0.60.01" }
 }

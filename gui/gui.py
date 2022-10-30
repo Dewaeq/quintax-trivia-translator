@@ -1,4 +1,5 @@
 import tkinter as tk
+import tkinter.font as tkFont
 import main
 import json
 from gui.text_entry import TextEntry
@@ -13,7 +14,8 @@ class GUI():
         self.window = tk.Tk()
         self.window.geometry("700x500")
 
-        self.label = tk.Label(text="Quintax Trivia Question Handler")
+        self.label = tk.Label(
+            text="Quintax Trivia Question Handler", font=tkFont.Font(size=16))
         self.label.pack()
 
         self.question = TextEntry("Question")
@@ -22,11 +24,13 @@ class GUI():
         self.answer3 = TextEntry("Answer3")
         self.correctAnswer = TextEntry("Correct Answer")
 
-        self.submit = tk.Button(text="Add", command=lambda: submit(self))
-        self.submit.pack()
+        self.submit = tk.Button(text="Add", font=tkFont.Font(
+            size=16), bg='#6FCF97', fg='#FFFFFF', width=70, command=lambda: submit(self))
+        self.submit.pack(pady=(400, 10), padx=20)
 
-        self.save = tk.Button(text="Save", command=lambda: save())
-        self.save.pack()
+        self.save = tk.Button(text="Save", font=tkFont.Font(
+            size=16), bg='#56CCF2', fg='#FFFFFF', width=70, command=lambda: save())
+        self.save.pack(pady=(0, 10), padx=20)
 
     def start(self):
         self.window.mainloop()
